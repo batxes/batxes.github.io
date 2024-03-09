@@ -5,30 +5,9 @@
 Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, handling large genomic data, I am committed to continuous learning, evident in my recent participation in Machine Learning courses.
 
 ## 🎓 Education
-- **Ph.D.**, Bioinformatics | Complutense University of Madrid, Spain (Oct 2013 - May 2018)		  		
-- **M.Sc.**, Bioinformatics	| National Health Institute Carlos III, Madrid, Spain. (Oct 2012 - Oct 2013)	 			        		
-- **B.Sc.**, Computer Engineering | Complutense University of Madrid, Spain (Sep 2009 - Sep 2011)
-- **B.Sc.**, Technical Computer Engineering in Computer Systems | University of Mondragon, Spain (Jul 2003 - Jul 2009)
-
-## 💼 Work experience 
-**Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a> (Jun 2018 - Present)**
-- Characterization of genomic structural differences between the homologous chromosomes of mouse embryonic stem cells
-- Analysis, interpretation and integration of spatial genomics data with epigenetic data 
-
-**Ph.D. Candidate @ <a href="https://www.cabd.es/en/research_groups/microbiology-s-platypus/lab-members---collaborators-254.html" target="_blank">CABD (Seville) / Complutense University of Madrid </a> (Oct 2013 - May 2018)**
-- Integrative modeling of the 3D structure of macromolecules
-- 3D modeling of proteins, proteins complexes and chromatin
-- Analysis, interpretation and integration of spatial genomic data, proteomic data and epigenetic data 
-
-**High Performance Computeder Administrator @ CABD (Seville) (Dec 2015 - Dec 2017)**
-
-**Secondment @ University California San Francisco (Sep 2014 - Oct 2014)**
-
-**M.Sc. Internship @ University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany (May 2013 - Sep 2013)**
-- Integrative modeling of the 3D structure of macromolecules
-- 3D modeling of proteins 
-- Analysis, interpretation and integration of spatial proteomic data
-
+- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
+- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
+- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 <a href="https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 #### Technical Skills:
@@ -49,6 +28,11 @@ Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experi
 - Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
 - Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
 
+## 💼 Work experience 
+**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
+- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
+- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
+- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
 
 ## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
