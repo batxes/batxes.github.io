@@ -3,7 +3,6 @@ title: Ibai Irastorza Azcarate
 description: Data scientist 
 logo: Me3_fixed_circle.png 
 show_downloads: true
-theme: jekyll-theme-minimal 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
