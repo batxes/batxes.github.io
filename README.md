@@ -71,7 +71,7 @@ I excel in synthesizing information into compelling theses and research articles
 - Web positioning (SEO) knowledge.
 - .Net Framework, MS Office Suite, Libre Office. 
 
-## 🎤 Public Speaking in International meetings
+## 🎤 Communication in International meetings
 
 1.  CABD 20th scientific anniversary, Sevilla (Oral Communication) (06/06/2023) 
 2.  SPP2202 monthly meeting (Oral Communication, Online) (10/05/2023) 
