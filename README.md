@@ -39,7 +39,7 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 🖋 Courses/Activities
 
-**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href=" https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
+**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
 **Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023) <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
 
