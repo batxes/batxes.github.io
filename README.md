@@ -37,7 +37,7 @@ I excel in synthesizing information into compelling theses and research articles
 **Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
 - Software development in .Net Micro Framework
 
-## 🖋 Courses/Activities
+## ✍️ Courses/Activities
 
 **Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
@@ -101,9 +101,9 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 💬 Languages
 
-🇪🇺 **Euskara/Basque**: Native <br>
-🇸🇵 **Spanish**: Native <br>
-🇺🇸 **English**: C1 Proficient User <br>
+🇵🇲 **Euskara/Basque**: Native <br>
+🇪🇸 **Spanish**: Native <br>
+🇬🇧 **English**: C1 Proficient User <br>
 🇩🇪 **German**: A2 Basic User
 
 ## 🔬 Research Publications
