@@ -1,14 +1,15 @@
 # Ibai Irastorza Azcarate - Data Scientist
 
-#### Summary:
+[Email](mailto:batxes@gmail.com) / [Email2](mailto:ibai.irastorza@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ibai-irastorza/) / [GitHub](https://github.com/batxes/) / [Google Scholar](https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en)
 
+#### Summary:
 Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, handling large genomic data, I am committed to continuous learning, evident in my recent participation in Machine Learning courses.
 
 ## 🎓 Education
-- **Ph.D.**, Bioinformatics | Complutense University of Madrid, Spain (Oct 2013 - May 2018)		  		
-- **M.Sc.**, Bioinformatics	| National Health Institute Carlos III, Madrid, Spain. (Oct 2012 - Oct 2013)	 			        		
-- **B.Sc.**, Computer Engineering | Complutense University of Madrid, Spain (Sep 2009 - Sep 2011)
-- **B.Sc.**, Technical Computer Engineering in Computer Systems | University of Mondragon, Spain (Jul 2003 - Jul 2009)
+- **Ph.D., Bioinformatics** | Complutense University of Madrid (Oct 2013 - May 2018)		  		
+- **M.Sc., Bioinformatics**	| National Health Institute Carlos III, Madrid (Oct 2012 - Oct 2013)	 			        		
+- **B.Sc., Computer Engineering** | Complutense University of Madrid (Sep 2009 - Sep 2011)
+- **B.Sc., Technical Computer Engineering in Computer Systems** | University of Mondragon, Spain (Jul 2003 - Jul 2009)
 
 ## 💼 Work experience 
 **Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a> (Jun 2018 - Present)**
@@ -20,153 +21,151 @@ Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experi
 - 3D modeling of proteins, proteins complexes and chromatin
 - Analysis, interpretation and integration of spatial genomic data, proteomic data and epigenetic data 
 
-**High Performance Computeder Administrator @ CABD (Seville) (Dec 2015 - Dec 2017)**
+**M.Sc. Internship @ University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany (May 2013 - Sep 2013)**
+- Integrative 3D modeling of protein complexes
+- Analysis, interpretation and integration of spatial proteomic data
+
+**Android Applications Developer (Oct 2011 - May 2013)**
+- Game and application development as a freelancer
+
+**Software Developer @ BBVA (Madrid) (Oct 2011 - Aug 2012)**
+- Development of different applications. Maintenance and support of bank applications
+
+**Software Developer @ Mon Digital (IT company, Madrid) (May 2011 - Oct 2011)**
+- Design and development of web sites using Python, Javascript and css.
+
+**Software Developer @ Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain) (Sep 2008 - Jul 2009)**
+- Software development in .Net Micro Framework
+
+## 🖋 Courses/Activities
+
+**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a> (Dec 2023 - Present)**
+- <a href=" https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
+
+**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a> (Sep 2023 - Dec 2023)**
+- <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
+
+**Summer School on Applied Deep Learning in Bioinformatics @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a> (Aug 2023)**
+
+**Review Editor in “Frontiers in Cell and Developmental Biology” (Aug 2023 - Present)**
+
+**Master Thesis reviewer of Altair Hernández Chichilla, Pompeu Fabra University, Barcelona (Jul 2020)**
+
+**Master degree Teacher in Bioinformatic Analysis. Universidad Pablo de Olavide (UPO), Sevilla. (Jan 2016 - Mar 2018)**
+- R and Perl programming languages
+
+**Integration of MultiOmic Data in Genetic Association Studies. Universidad de Sevilla. (Sep 2017)**
+
+**High Performance Computer Administrator @ CABD (Seville) (Dec 2015 - Dec 2017)**
 
 **Secondment @ University California San Francisco (Sep 2014 - Oct 2014)**
 
-**M.Sc. Internship @ University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany (May 2013 - Sep 2013)**
-- Integrative modeling of the 3D structure of macromolecules
-- 3D modeling of proteins 
-- Analysis, interpretation and integration of spatial proteomic data
+**3D genome modeling workshop, Strasbourg (Sep 2014)**
 
-<a href="https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en" target="_blank">Google Scholar</a>
+## 💻 Technical Skills:
 
-#### Technical Skills:
+- Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
+- Experimenting with Tensorflow, Keras, Flask, AWS lambda and Kubernetes.  
+- Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
+- Software engineering, UML and different development states of informatic projects.
+- Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
+- Functionality and structure of Operatives systems based on Linux.
+- Creation and management of Network protocols.
+- Web positioning (SEO) knowledge.
+- .Net Framework, MS Office Suite, Libre Office. 
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
-  
+## 🎤 Public Speaking in International meetings
 
-## 🔬 Research Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
-- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
-- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
-- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
+1.  CABD 20th scientific anniversary, Sevilla (Oral Communication) (06/06/2023) 
+2.  SPP2202 monthly meeting (Oral Communication, Online) (10/05/2023) 
+3.  Joint Meeting in Neuroepigenetics, Alicante (Organization and Oral Communication) (31/03/2023) 
+4.  4DN monthly meeting (Oral Communication, Online) (06/03/2023) 
+5.  Annual lab retreat, Berlin (Oral Communication) (21/11/2022) 
+6.  Till Bartke Lab retreat, Berlin (Oral Communication, invited speaker) (21/09/2022) 
+7.  Bioinformatics Social Meetings, Berlin (Oral Communication, Online) (27/01/2021) 
+8.  4D Epigenome conference, Venice (02/10/2019) 
+9.  4DN-ASCB Satellite Meeting, San Diego (Oral Communication) (06/12/2018) 
+10.  4DN Annual Meeting, San Diego (04/12/2018) 
+11.  Annual lab retreat, Berlin (Oral Communication) (21/11/2018) 
+12.  3D/4D organization of chromatin, BioMed Conference, Barcelona. (13/11/2017) 
+13.  ZENCODE/DevCom Conference, Carmona (27/03/2017) 
+14.  4D Genome ERC Workshop. Dynamics of Genome Structure, Barcelona. (22/09/2016) 
+15.  XIII Symposium on Bioinformatics. Valencia, Spain. (Oral Communication, Highlight Talk) (10/05/2016) 
+16.  HPC admin tech 2016 conference, Madrid. (02/03/2016) 
+17.  IX meeting of the Protein Structure and Function Network, Sevilla (Oral Communication) (11/11/2015) 
+18.  ISMB/ECCB 2015, Dublin (10/07/2015) 
+19.  13th European Conference on Computational Biology, Strasburg (07/09/2014) 
+20.  V IMMPC Annual Conference and 4DCellFate Workshop, Barcelona (Oral Communication) (27/03/2014) 
 
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
-- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
+## 🏆 Accomplishments
+
+**FEBS long term fellowship** [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
 
 
-## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
-- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
-- **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
-- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
-- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
-- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
+## 💬 Languages
 
-**Additional Skills:**
-  
-- Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+🇪🇺 **Euskara/Basque**: Native <br>
+🇸🇵 **Spanish**: Native <br>
+🇺🇸 **English**: C1 Proficient User <br>
+🇩🇪 **German**: A2 Basic User
+<br><br>
 
-## 🌱 R Packages developed
-### ✅ PBGeno
-<a href="https://github.com/Allan-gitrepos/pbgeno" target="_blank">GitHub</a>
+## 🔬 Research Publications
 
-Developed pbgeno, an R package to streamline data analysis workflows for plant breeders. The package provides functions for calculating genetic distances, clustering genotypes, estimating diversity statistics, creating publication-quality visualizations, and automating routine tasks. Key features include calculating genetic distance matrices, structure-based clustering, polymorphism quantification, and converting proprietary marker genotypes into standardized formats for genome-wide association mapping. 
+0. Ibai Irastorza-Azcarate,#, Alexander Kukalev,#, Rieke Kempfer,#, Christoph Thieme, Guido Mastrobuoni, Julia Markowski, Gesa Loof, Thomas M. Sparks, Emily Brookes, Kedar Natarajan, Mario Nicodemi, Bing Ren, Roland Schwarz, Stefan Kempa, and Ana Pombo. "Extensive folding variability between homologous chromosomes in mammalian cells" In process 
 
-### ✅ PBPerfect
-**PBPerfect** <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">(Visit Page)</a> is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
+1. RD Acemel, JJ Tena, I Irastorza-Azcarate, F Marlétaz, C Gómez-Marín, ...  
+   "A single three-dimensional chromatin compartment in amphioxus indicates a stepwise evolution of vertebrate Hox bimodal regulation"  
+   Nature genetics, 48 (3), 336-341, 2016  
+   DOI: <a href="https://doi.org/10.1038/ng.3516">https://doi.org/10.1038/ng.3516</a>
 
- Here is a draft GitHub readme section for your PBlinkagemap package:
+2. W Winick-Ng, A Kukalev, I Harabula, L Zea-Redondo, D Szabó, M Meijer, ...  
+   "Cell-type specialization is encoded by specific chromatin topologies"  
+   Nature, 599 (7886), 684-691, 2021  
+   DOI: <a href="https://doi.org/10.1038/s41586-021-03928-5">https://doi.org/10.1038/s41586-021-03928-5</a>
 
-### ✅ PBlinkagemap
+3. A Picco, I Irastorza-Azcarate, T Specht, D Böke, I Pazos, AS Rivier-Cordey, ...  
+   "The in vivo architecture of the exocyst provides structural basis for exocytosis"  
+   Cell, 168 (3), 400-412. e18, 2017  
+   DOI: <a href="https://doi.org/10.1016/j.cell.2016.11.033">https://doi.org/10.1016/j.cell.2016.11.033</a>
 
-**PBlinkagemap** <a href="https://allanbiotools1.shinyapps.io/PBLinkagemap/" target="_blank">(Visit Page)</a> enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
+4. L Fiorillo, F Musella, M Conte, R Kempfer, AM Chiariello, S Bianco, ...  
+   "Comparison of the Hi-C, GAM and SPRITE methods using polymer models of chromatin"  
+   Nature methods, 18 (5), 482-490, 2021  
+   DOI: <a href="https://doi.org/10.1038/s41592-021-01084-4">https://doi.org/10.1038/s41592-021-01084-4</a>
 
-It allows users to:
-- Import chromosome, marker, map distance and trait score data
-- Interactively explore results on linkage maps
-- Visualize QTL locations and effects
-By handling computationally intensive linkage analysis and mapping behind the scenes, PBlinkagemap makes it simple for users to go from datasets to QTL discovery through an intuitive interface.
+5. M Franke, E De la Calle-Mustienes, A Neto, M Almuedo-Castillo, ...  
+   "CTCF knockout in zebrafish induces alterations in regulatory landscapes and developmental gene expression"  
+   Nature communications, 12 (1), 5415, 2021  
+   DOI: <a href="https://doi.org/10.1038/s41467-021-25460-z">https://doi.org/10.1038/s41467-021-25460-z</a>
 
-### ✅ PB-GWAS 🧬
+6. C Vicente-Garcia, B Villarejo-Balcells, I Irastorza-Azcarate, S Naranjo, ...  
+   "Regulatory landscape fusion in rhabdomyosarcoma through interactions between the PAX3 promoter and FOXO1 regulatory elements"  
+   Genome Biology, 18, 1-18, 2017  
+   DOI: <a href="https://doi.org/10.1186/s13059-017-1253-4">https://doi.org/10.1186/s13059-017-1253-4</a>
 
-**PB-GWAS** <a href="https://allanbiotools1.shinyapps.io/PBgwas/" target="_blank">(Visit Page)</a> makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
+7. R Alcalá-Vida, J Seguin, C Lotz, AM Molitor, I Irastorza-Azcarate, A Awada, ...  
+   "Age-related and disease locus-specific mechanisms contribute to early remodelling of chromatin structure in Huntington’s disease mice"  
+   Nature communications, 12 (1), 364, 2021  
+   DOI: <a href="https://doi.org/10.1038/s41467-020-20842-7">https://doi.org/10.1038/s41467-020-20842-7</a>
 
-Key features:
-📥 File upload in 4 clicks  
-🏃‍♂️ One-click GWAS launch  
-⚙️ Adjust parameters via sidebar   
-📈 Interactive result plotting  
-📄 Full PDF report downloading
+8. I Irastorza-Azcarate, RD Acemel, JJ Tena, I Maeso, JL Gómez-Skarmeta, ...  
+   "4Cin: A computational pipeline for 3D genome modeling and virtual Hi-C analyses from 4C data"  
+   PLoS Computational Biology, 14 (3), e1006030, 2018  
+   DOI: <a href="https://doi.org/10.1371/journal.pcbi.1006030">https://doi.org/10.1371/journal.pcbi.1006030</a>
 
-By eliminating coding barriers, PB-GWAS allows both new and advanced users to leverage GAPIT workflows with no programming expertise required!. Whether you want to map simple or complex traits, PB-GWAS provides the automated analysis to accelerate discoveries 🔬
+9. J Markowski, R Kempfer, A Kukalev, I Irastorza-Azcarate, G Loof, B Kehr, ...  
+    "GAMIBHEAR: whole-genome haplotype reconstruction from Genome Architecture Mapping data"  
+    Bioinformatics, 37 (19), 3128-3135, 2021  
+    DOI: <a href="https://doi.org/10.1093/bioinformatics/btab354">https://doi.org/10.1093/bioinformatics/btab354</a>
 
- Here is a draft GitHub readme for the PBHaploMineR package:
-
-### ✅ PBHaploMineR 🧬
-
-**PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
-
-**Key Features:**
-* **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
-* **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
-* **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
-* **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
-* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
-
-PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
-
-## 🎤 Workshop and Conferences
-- Attended the workshop on "<a href="https://twitter.com/GenebankICRISAT/status/1169137453472669696" target="_blank">A15 DArTSeq Data Analysis</a>" at <a href="https://www.cimmyt.org/" target="_blank">CIMMYT</a>, Mexico
-- Attended the international conference on <a href="https://twitter.com/GenebankICRISAT/status/1158297753371308032" target="_blank">"Neglected and Underutilized Crop Species for Food, Nutrition, Energy and Environment"</a> at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
-- Attended the workshop on **<a href="https://www.facebook.com/media/set/?vanity=natesan.senthil&set=a.5804435956243670" target="_blank">HPLC: "Principles and Applications in Plant Metabolomics"</a>**" at TNAU,Coimbaotore.
-- Attended the workshop on **<a href="https://www.covaichronicle.com/english/contentview/natu?fbclid=IwAR0fA8w7ubx__cGaKnmE-68-tmRLg92XHs1Rf-HnhQzRjmFc_calVar8yFo" target="_blank">Molecular Modelling and Docking</a>** at TNAU, Coimbatore.
-- Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
-
-## ✍️ Articles & Blogs
-- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
-
-## 📜 Publications
-
-1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
-2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
-3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: <a href="https://doi.org/10.3389/fpls.2021.692463" target="_blank">https://doi.org/10.3389/fpls.2021.692463</a>)
-4. Vetriventhan, Mani, Hari D. Upadhyaya, Vania CR Azevedo, Allan Victor, and Seetha Anitha. **"Variability and trait‐specific accessions for grain yield and nutritional traits in germplasm of little millet (_Panicum sumatrense_ Roth. Ex. Roem. & Schult.)."** _Crop Science_ 61, no. 4 (2021): 2658-2679. (DOI: <a href="https://doi.org/10.1002/csc2.20527" target="_blank">https://doi.org/10.1002/csc2.20527</a>)
-5. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: <a href="https://doi.org/10.1016/j.apsoil.2023.105176" target="_blank">https://doi.org/10.1016/j.apsoil.2023.105176</a>).
-6. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: <a href="https://doi.org/10.3390/su15065520" target="_blank">https://doi.org/10.3390/su15065520</a>)
-7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: <a href="https://doi.org/10.1007/s42729-023-01129-2" target="_blank">https://doi.org/10.1007/s42729-023-01129-2</a>)
-8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
-9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
-    
-
-## 📚 References
-
-|     |     |
-|:----|:----|
-| **Name:** | **Dr. Vania de Azevedo** |
-| **Position:** | Former Head, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
-| **E-mail:** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
-
-|     |     |
-|:----|:----|
-| **Name:** | **Dr. Mani Vetriventhan** |
-| **Position:** | Senior Scientist, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
-| **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
-
-|     |     |
-|:----|:----|
-| **Name:** | **Mr. Rajaguru Bohar** |
-| **Position:** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
-| **Organization:** | CIMMYT |
-| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
-|     |     |
-
+10. I Irastorza-Azcarate, D Castaño-Díez, DP Devos, O Gallego  
+    "Live-cell structural biology to solve biological mechanisms: The case of the exocyst"  
+    Structure, 27 (6), 886-892, 2019  
+    DOI: <a href="https://doi.org/10.1016/j.str.2019.03.009">https://doi.org/10.1016/j.str.2019.03.009</a>
 
 ## 📞 Contact
 
-| **Name**   | Allan. V | 
-| **E-mail**   | <a href="mailto:albertoogy@gmail.com">albertoogy@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
+| **Name**   | Ibai Irastorza Azcarate | 
+| **E-mail**   | <a href="mailto:batxes@gmail.com">batxes@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/ibai-irastorza/" target="_blank">Visit Page</a> | 
