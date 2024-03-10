@@ -2,7 +2,7 @@
 
 [Email](mailto:batxes@gmail.com) / [Email2](mailto:ibai.irastorza@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ibai-irastorza/) / [GitHub](https://github.com/batxes/) / [Google Scholar](https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en)
 
-#### Summary:
+<br>
 Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, I am confident in handling large genomic data. I am also committed to continuous learning, evident in my recent participation in Deep Learning workshops or courses in Machine learning in weather and climate. 
 I excel in synthesizing information into compelling theses and research articles, showcasing strong written communication skills. My international academic experience has cultivated cultural awareness, adaptability, and resilience, enabling effective collaboration in diverse teams. Proficient in English, I have attended numerous international conferences to showcase my work, fostering confidence in my English communication and presentation abilities. Additionally, I have provided supervision to colleagues and successfully managed substantial projects, affirming my proficiency in leadership and systematic skills.
 
@@ -12,7 +12,7 @@ I excel in synthesizing information into compelling theses and research articles
 - **B.Sc., Computer Engineering** | Complutense University of Madrid (Sep 2009 - Sep 2011)
 - **B.Sc., Technical Computer Engineering in Computer Systems** | University of Mondragon, Spain (Jul 2003 - Jul 2009)
 
-<br><br>
+<br>
 ## 💼 Work experience 
 **Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a>** (Jun 2018 - Present)
 - Characterization of genomic structural differences between the homologous chromosomes of mouse embryonic stem cells
@@ -39,7 +39,7 @@ I excel in synthesizing information into compelling theses and research articles
 **Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
 - Software development in .Net Micro Framework
 
-<br><br>
+<br>
 ## 🖋 Courses/Activities
 
 **Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present)
@@ -65,7 +65,7 @@ I excel in synthesizing information into compelling theses and research articles
 
 **3D genome modeling workshop, Strasbourg** (Sep 2014)
 
-<br><br>
+<br>
 ## 💻 Technical Skills:
 
 - Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
@@ -105,7 +105,7 @@ I excel in synthesizing information into compelling theses and research articles
 
 **FEBS long term fellowship** [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
 
-<br><br>
+<br>
 
 ## 💬 Languages
 
