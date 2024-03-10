@@ -3,7 +3,8 @@
 [Email](mailto:batxes@gmail.com) / [Email2](mailto:ibai.irastorza@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ibai-irastorza/) / [GitHub](https://github.com/batxes/) / [Google Scholar](https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en)
 
 #### Summary:
-Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, handling large genomic data, I am committed to continuous learning, evident in my recent participation in Machine Learning courses.
+Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, I am confident in handling large genomic data. I am also committed to continuous learning, evident in my recent participation in Deep Learning workshops or courses in Machine learning in weather and climate. 
+I excel in synthesizing information into compelling theses and research articles, showcasing strong written communication skills. My international academic experience has cultivated cultural awareness, adaptability, and resilience, enabling effective collaboration in diverse teams. Proficient in English, I have attended numerous international conferences to showcase my work, fostering confidence in my English communication and presentation abilities. Additionally, I have provided supervision to colleagues and successfully managed substantial projects, affirming my proficiency in leadership and systematic skills.
 
 ## 🎓 Education
 - **Ph.D., Bioinformatics** | Complutense University of Madrid (Oct 2013 - May 2018)		  		
@@ -11,57 +12,60 @@ Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experi
 - **B.Sc., Computer Engineering** | Complutense University of Madrid (Sep 2009 - Sep 2011)
 - **B.Sc., Technical Computer Engineering in Computer Systems** | University of Mondragon, Spain (Jul 2003 - Jul 2009)
 
+<br><br>
 ## 💼 Work experience 
-**Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a> (Jun 2018 - Present)**
+**Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a>** (Jun 2018 - Present)
 - Characterization of genomic structural differences between the homologous chromosomes of mouse embryonic stem cells
 - Analysis, interpretation and integration of spatial genomics data with epigenetic data 
 
-**Ph.D. Candidate @ <a href="https://www.cabd.es/en/research_groups/microbiology-s-platypus/lab-members---collaborators-254.html" target="_blank">CABD (Seville) / Complutense University of Madrid </a> (Oct 2013 - May 2018)**
+**Ph.D. Candidate @ <a href="https://www.cabd.es/en/research_groups/microbiology-s-platypus/lab-members---collaborators-254.html" target="_blank">CABD (Seville) / Complutense University of Madrid </a>** (Oct 2013 - May 2018)
 - Integrative modeling of the 3D structure of macromolecules
 - 3D modeling of proteins, proteins complexes and chromatin
 - Analysis, interpretation and integration of spatial genomic data, proteomic data and epigenetic data 
 
-**M.Sc. Internship @ University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany (May 2013 - Sep 2013)**
+**M.Sc. Internship @ <a href="https://www.cos.uni-heidelberg.de/en" target="_blank">University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany</a>** (May 2013 - Sep 2013)
 - Integrative 3D modeling of protein complexes
 - Analysis, interpretation and integration of spatial proteomic data
 
-**Android Applications Developer (Oct 2011 - May 2013)**
+**Android Applications Developer** (Oct 2011 - May 2013)
 - Game and application development as a freelancer
 
-**Software Developer @ BBVA (Madrid) (Oct 2011 - Aug 2012)**
+**Software Developer @ <a href="https://www.accenture.com/es-es" target="_blank">Accenture / BBVA (Madrid)</a>** (Oct 2011 - Aug 2012)
 - Development of different applications. Maintenance and support of bank applications
 
-**Software Developer @ Mon Digital (IT company, Madrid) (May 2011 - Oct 2011)**
+**Software Developer @ <a href="https://www.dnb.com/business-directory/company-profiles.mondigital_sl.10ff1802ff897194db0d783759ce1911.html" target="_blank">Mon Digital (IT company, Madrid)</a>** (May 2011 - Oct 2011)
 - Design and development of web sites using Python, Javascript and css.
 
-**Software Developer @ Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain) (Sep 2008 - Jul 2009)**
+**Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
 - Software development in .Net Micro Framework
 
+<br><br>
 ## 🖋 Courses/Activities
 
-**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a> (Dec 2023 - Present)**
+**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present)
 - <a href=" https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
-**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a> (Sep 2023 - Dec 2023)**
+**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023)
 - <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
 
-**Summer School on Applied Deep Learning in Bioinformatics @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a> (Aug 2023)**
+**Summer School on Applied Deep Learning in Bioinformatics @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a>** (Aug 2023)
 
-**Review Editor in “Frontiers in Cell and Developmental Biology” (Aug 2023 - Present)**
+**Review Editor in <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/editors" target="_blank">“Frontiers in Cell and Developmental Biology”</a>** (Aug 2023 - Present)
 
-**Master Thesis reviewer of Altair Hernández Chichilla, Pompeu Fabra University, Barcelona (Jul 2020)**
+**Master Thesis reviewer of Altair Hernández Chichilla, Pompeu Fabra University, Barcelona** (Jul 2020)
 
-**Master degree Teacher in Bioinformatic Analysis. Universidad Pablo de Olavide (UPO), Sevilla. (Jan 2016 - Mar 2018)**
-- R and Perl programming languages
+**Master degree Teacher in Bioinformatic Analysis. <a href="https://www.upo.es/formacionpermanente/master-formacion-permanente/analisis-bioinformatico-avanzado/" target="_blank">Universidad Pablo de Olavide (UPO), Sevilla.</a>** (Jan 2016 - Mar 2018)
+- R and Perl programming languages  
 
-**Integration of MultiOmic Data in Genetic Association Studies. Universidad de Sevilla. (Sep 2017)**
+**Integration of MultiOmic Data in Genetic Association Studies. Universidad de Sevilla.** (Sep 2017)
 
-**High Performance Computer Administrator @ CABD (Seville) (Dec 2015 - Dec 2017)**
+**High Performance Computer Administrator @ CABD (Seville)** (Dec 2015 - Dec 2017)
 
-**Secondment @ University California San Francisco (Sep 2014 - Oct 2014)**
+**Secondment @ <a href="https://salilab.org/" target="_blank">University California San Francisco</a>** (Sep 2014 - Oct 2014)
 
-**3D genome modeling workshop, Strasbourg (Sep 2014)**
+**3D genome modeling workshop, Strasbourg** (Sep 2014)
 
+<br><br>
 ## 💻 Technical Skills:
 
 - Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
@@ -101,6 +105,7 @@ Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experi
 
 **FEBS long term fellowship** [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
 
+<br><br>
 
 ## 💬 Languages
 
@@ -163,9 +168,3 @@ Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experi
     "Live-cell structural biology to solve biological mechanisms: The case of the exocyst"  
     Structure, 27 (6), 886-892, 2019  
     DOI: <a href="https://doi.org/10.1016/j.str.2019.03.009">https://doi.org/10.1016/j.str.2019.03.009</a>
-
-## 📞 Contact
-
-| **Name**   | Ibai Irastorza Azcarate | 
-| **E-mail**   | <a href="mailto:batxes@gmail.com">batxes@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/ibai-irastorza/" target="_blank">Visit Page</a> | 
