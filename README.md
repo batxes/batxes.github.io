@@ -1,4 +1,4 @@
-# Ibai Irastorza Azcarate - Data Scientist
+# Ibai Irastorza Azcarate - Data Scientist 🔬💻📚
 
 [Email](mailto:batxes@gmail.com) / [Email2](mailto:ibai.irastorza@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ibai-irastorza/) / [GitHub](https://github.com/batxes/) / [Google Scholar](https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en)
 
