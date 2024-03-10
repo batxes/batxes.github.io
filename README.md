@@ -2,7 +2,6 @@
 
 [Email](mailto:batxes@gmail.com) / [Email2](mailto:ibai.irastorza@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ibai-irastorza/) / [GitHub](https://github.com/batxes/) / [Google Scholar](https://scholar.google.es/citations?user=j9TCubcAAAAJ&hl=en)
 
-<br>
 Ph.D. in Bioinformatics with Computer Engineering background. 10 years of experience in research and data science, and more than 4 in software development. With a diverse professional journey, I've served as a High-Performance Computer Administrator and contributed to the development of various applications in the private sector and academia. Proficient in Python, Pandas and Pyplot, I am confident in handling large genomic data. I am also committed to continuous learning, evident in my recent participation in Deep Learning workshops or courses in Machine learning in weather and climate. 
 I excel in synthesizing information into compelling theses and research articles, showcasing strong written communication skills. My international academic experience has cultivated cultural awareness, adaptability, and resilience, enabling effective collaboration in diverse teams. Proficient in English, I have attended numerous international conferences to showcase my work, fostering confidence in my English communication and presentation abilities. Additionally, I have provided supervision to colleagues and successfully managed substantial projects, affirming my proficiency in leadership and systematic skills.
 
@@ -12,7 +11,6 @@ I excel in synthesizing information into compelling theses and research articles
 - **B.Sc., Computer Engineering** | Complutense University of Madrid (Sep 2009 - Sep 2011)
 - **B.Sc., Technical Computer Engineering in Computer Systems** | University of Mondragon, Spain (Jul 2003 - Jul 2009)
 
-<br>
 ## 💼 Work experience 
 **Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a>** (Jun 2018 - Present)
 - Characterization of genomic structural differences between the homologous chromosomes of mouse embryonic stem cells
@@ -39,14 +37,11 @@ I excel in synthesizing information into compelling theses and research articles
 **Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
 - Software development in .Net Micro Framework
 
-<br>
 ## 🖋 Courses/Activities
 
-**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present)
-- <a href=" https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
+**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href=" https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
-**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023)
-- <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
+**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023) <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
 
 **Summer School on Applied Deep Learning in Bioinformatics @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a>** (Aug 2023)
 
@@ -54,8 +49,7 @@ I excel in synthesizing information into compelling theses and research articles
 
 **Master Thesis reviewer of Altair Hernández Chichilla, Pompeu Fabra University, Barcelona** (Jul 2020)
 
-**Master degree Teacher in Bioinformatic Analysis. <a href="https://www.upo.es/formacionpermanente/master-formacion-permanente/analisis-bioinformatico-avanzado/" target="_blank">Universidad Pablo de Olavide (UPO), Sevilla.</a>** (Jan 2016 - Mar 2018)
-- R and Perl programming languages  
+**Master degree Teacher in Bioinformatic Analysis. <a href="https://www.upo.es/formacionpermanente/master-formacion-permanente/analisis-bioinformatico-avanzado/" target="_blank">Universidad Pablo de Olavide (UPO), Sevilla.</a>** (Jan 2016 - Mar 2018) R and Perl programming languages  
 
 **Integration of MultiOmic Data in Genetic Association Studies. Universidad de Sevilla.** (Sep 2017)
 
@@ -65,7 +59,6 @@ I excel in synthesizing information into compelling theses and research articles
 
 **3D genome modeling workshop, Strasbourg** (Sep 2014)
 
-<br>
 ## 💻 Technical Skills:
 
 - Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
@@ -105,7 +98,6 @@ I excel in synthesizing information into compelling theses and research articles
 
 **FEBS long term fellowship** [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
 
-<br>
 
 ## 💬 Languages
 
@@ -113,7 +105,6 @@ I excel in synthesizing information into compelling theses and research articles
 🇸🇵 **Spanish**: Native <br>
 🇺🇸 **English**: C1 Proficient User <br>
 🇩🇪 **German**: A2 Basic User
-<br><br>
 
 ## 🔬 Research Publications
 
