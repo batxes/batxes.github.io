@@ -113,37 +113,37 @@ I excel in synthesizing information into compelling theses and research articles
 1. RD Acemel, JJ Tena, I Irastorza-Azcarate, F Marlétaz, C Gómez-Marín, ...  
    "A single three-dimensional chromatin compartment in amphioxus indicates a stepwise evolution of vertebrate Hox bimodal regulation"  
    Nature genetics, 48 (3), 336-341, 2016  
-   DOI: <a href="https://doi.org/10.1038/ng.3516">https://doi.org/10.1038/ng.3516</a>
+   DOI: <a href="https://doi.org/10.1038/ng.3497">https://doi.org/10.1038/ng.3497</a>
 
 2. W Winick-Ng, A Kukalev, I Harabula, L Zea-Redondo, D Szabó, M Meijer, ...  
    "Cell-type specialization is encoded by specific chromatin topologies"  
    Nature, 599 (7886), 684-691, 2021  
-   DOI: <a href="https://doi.org/10.1038/s41586-021-03928-5">https://doi.org/10.1038/s41586-021-03928-5</a>
+   DOI: <a href="https://doi.org/10.1038/s41586-021-04081-2">https://doi.org/10.1038/s41586-021-04081-2</a>
 
 3. A Picco, I Irastorza-Azcarate, T Specht, D Böke, I Pazos, AS Rivier-Cordey, ...  
    "The in vivo architecture of the exocyst provides structural basis for exocytosis"  
    Cell, 168 (3), 400-412. e18, 2017  
-   DOI: <a href="https://doi.org/10.1016/j.cell.2016.11.033">https://doi.org/10.1016/j.cell.2016.11.033</a>
+   DOI: <a href="https://doi.org/10.1016/j.cell.2017.01.004">https://doi.org/10.1016/j.cell.2017.01.004</a>
 
 4. L Fiorillo, F Musella, M Conte, R Kempfer, AM Chiariello, S Bianco, ...  
    "Comparison of the Hi-C, GAM and SPRITE methods using polymer models of chromatin"  
    Nature methods, 18 (5), 482-490, 2021  
-   DOI: <a href="https://doi.org/10.1038/s41592-021-01084-4">https://doi.org/10.1038/s41592-021-01084-4</a>
+   DOI: <a href="https://doi.org/10.1038/s41592-021-01135-1">https://doi.org/10.1038/s41592-021-01135-1</a>
 
 5. M Franke, E De la Calle-Mustienes, A Neto, M Almuedo-Castillo, ...  
    "CTCF knockout in zebrafish induces alterations in regulatory landscapes and developmental gene expression"  
    Nature communications, 12 (1), 5415, 2021  
-   DOI: <a href="https://doi.org/10.1038/s41467-021-25460-z">https://doi.org/10.1038/s41467-021-25460-z</a>
+   DOI: <a href="https://doi.org/10.1038/s41467-021-25604-5">https://doi.org/10.1038/s41467-021-25604-5</a>
 
 6. C Vicente-Garcia, B Villarejo-Balcells, I Irastorza-Azcarate, S Naranjo, ...  
    "Regulatory landscape fusion in rhabdomyosarcoma through interactions between the PAX3 promoter and FOXO1 regulatory elements"  
    Genome Biology, 18, 1-18, 2017  
-   DOI: <a href="https://doi.org/10.1186/s13059-017-1253-4">https://doi.org/10.1186/s13059-017-1253-4</a>
+   DOI: <a href="https://doi.org/10.1186/s13059-017-1225-z">https://doi.org/10.1186/s13059-017-1225-z</a>
 
 7. R Alcalá-Vida, J Seguin, C Lotz, AM Molitor, I Irastorza-Azcarate, A Awada, ...  
    "Age-related and disease locus-specific mechanisms contribute to early remodelling of chromatin structure in Huntington’s disease mice"  
    Nature communications, 12 (1), 364, 2021  
-   DOI: <a href="https://doi.org/10.1038/s41467-020-20842-7">https://doi.org/10.1038/s41467-020-20842-7</a>
+   DOI: <a href="https://doi.org/10.1038/s41467-020-20605-2">https://doi.org/10.1038/s41467-020-20605-2</a>
 
 8. I Irastorza-Azcarate, RD Acemel, JJ Tena, I Maeso, JL Gómez-Skarmeta, ...  
    "4Cin: A computational pipeline for 3D genome modeling and virtual Hi-C analyses from 4C data"  
@@ -153,9 +153,9 @@ I excel in synthesizing information into compelling theses and research articles
 9. J Markowski, R Kempfer, A Kukalev, I Irastorza-Azcarate, G Loof, B Kehr, ...  
     "GAMIBHEAR: whole-genome haplotype reconstruction from Genome Architecture Mapping data"  
     Bioinformatics, 37 (19), 3128-3135, 2021  
-    DOI: <a href="https://doi.org/10.1093/bioinformatics/btab354">https://doi.org/10.1093/bioinformatics/btab354</a>
+    DOI: <a href="https://doi.org/10.1093/bioinformatics/btab238">https://10.1093/bioinformatics/btab238</a>
 
 10. I Irastorza-Azcarate, D Castaño-Díez, DP Devos, O Gallego  
     "Live-cell structural biology to solve biological mechanisms: The case of the exocyst"  
     Structure, 27 (6), 886-892, 2019  
-    DOI: <a href="https://doi.org/10.1016/j.str.2019.03.009">https://doi.org/10.1016/j.str.2019.03.009</a>
+    DOI: <a href="https://doi.org/10.1016/j.str.2019.04.010">https://doi.org/10.1016/j.str.2019.04.010</a>
