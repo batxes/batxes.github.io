@@ -108,9 +108,11 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 🔬 Research Publications
 
-0. Ibai Irastorza-Azcarate,#, Alexander Kukalev,#, Rieke Kempfer,#, Christoph Thieme, Guido Mastrobuoni, Julia Markowski, Gesa Loof, Thomas M. Sparks, Emily Brookes, Kedar Natarajan, Mario Nicodemi, Bing Ren, Roland Schwarz, Stefan Kempa, and Ana Pombo. "Extensive folding variability between homologous chromosomes in mammalian cells" In process 
+0. **Ibai Irastorza-Azcarate,#**, Alexander Kukalev,#, Rieke Kempfer,#, Christoph Thieme, Guido Mastrobuoni, Julia Markowski, Gesa Loof, Thomas M. Sparks, Emily Brookes, Kedar Natarajan, Mario Nicodemi, Bing Ren, Roland Schwarz, Stefan Kempa, and Ana Pombo. 
+"Extensive folding variability between homologous chromosomes in mammalian cells" 
+Sent to Molecuar Systems Biology 
 
-1. RD Acemel, JJ Tena, I Irastorza-Azcarate, F Marlétaz, C Gómez-Marín, ...  
+1. RD Acemel, JJ Tena, **I Irastorza-Azcarate**, F Marlétaz, C Gómez-Marín, ...  
    "A single three-dimensional chromatin compartment in amphioxus indicates a stepwise evolution of vertebrate Hox bimodal regulation"  
    Nature genetics, 48 (3), 336-341, 2016  
    DOI: <a href="https://doi.org/10.1038/ng.3497">https://doi.org/10.1038/ng.3497</a>
@@ -120,7 +122,7 @@ I excel in synthesizing information into compelling theses and research articles
    Nature, 599 (7886), 684-691, 2021  
    DOI: <a href="https://doi.org/10.1038/s41586-021-04081-2">https://doi.org/10.1038/s41586-021-04081-2</a>
 
-3. A Picco, I Irastorza-Azcarate, T Specht, D Böke, I Pazos, AS Rivier-Cordey, ...  
+3. A Picco, **I Irastorza-Azcarate**, T Specht, D Böke, I Pazos, AS Rivier-Cordey, ...  
    "The in vivo architecture of the exocyst provides structural basis for exocytosis"  
    Cell, 168 (3), 400-412. e18, 2017  
    DOI: <a href="https://doi.org/10.1016/j.cell.2017.01.004">https://doi.org/10.1016/j.cell.2017.01.004</a>
@@ -145,7 +147,7 @@ I excel in synthesizing information into compelling theses and research articles
    Nature communications, 12 (1), 364, 2021  
    DOI: <a href="https://doi.org/10.1038/s41467-020-20605-2">https://doi.org/10.1038/s41467-020-20605-2</a>
 
-8. I Irastorza-Azcarate, RD Acemel, JJ Tena, I Maeso, JL Gómez-Skarmeta, ...  
+8. **I Irastorza-Azcarate**, RD Acemel, JJ Tena, I Maeso, JL Gómez-Skarmeta, ...  
    "4Cin: A computational pipeline for 3D genome modeling and virtual Hi-C analyses from 4C data"  
    PLoS Computational Biology, 14 (3), e1006030, 2018  
    DOI: <a href="https://doi.org/10.1371/journal.pcbi.1006030">https://doi.org/10.1371/journal.pcbi.1006030</a>
@@ -155,7 +157,7 @@ I excel in synthesizing information into compelling theses and research articles
     Bioinformatics, 37 (19), 3128-3135, 2021  
     DOI: <a href="https://doi.org/10.1093/bioinformatics/btab238">https://10.1093/bioinformatics/btab238</a>
 
-10. I Irastorza-Azcarate, D Castaño-Díez, DP Devos, O Gallego  
+10. **I Irastorza-Azcarate**, D Castaño-Díez, DP Devos, O Gallego  
     "Live-cell structural biology to solve biological mechanisms: The case of the exocyst"  
     Structure, 27 (6), 886-892, 2019  
     DOI: <a href="https://doi.org/10.1016/j.str.2019.04.010">https://doi.org/10.1016/j.str.2019.04.010</a>
