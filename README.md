@@ -39,9 +39,9 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## ✍️ Courses/Activities
 
-**AI & Data Engineer Online Training @ <a "https://www.iu-akademie.de/weiterbildungen/ai-engineer/" target="_blank"> International University </a>** (June 2024 - October 2024) 
+**AI & Data Engineer Online Training @ <a href="https://www.iu-akademie.de/weiterbildungen/ai-engineer/" target="_blank"> International University </a>** (June 2024 - October 2024) 
 
-**Machine Learning operations (MLOps) course @ <a "https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Present) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
+**Machine Learning operations (MLOps) course @ <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Present) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
 
 **Machine learning in Weather and Climate, Massive Open Online Course @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
