@@ -39,11 +39,15 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## ✍️ Courses/Activities
 
-**Massive Open Online Course from ECMWF in Machine learning in Weather and Climate @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
+**AI & Data Engineer Online Training @ <a "https://www.iu-akademie.de/weiterbildungen/ai-engineer/" target="_blank"> International University </a>** (June 2024 - October 2024) 
 
-**Course in Machine Learning @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023) <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
+**Machine Learning operations (MLOps) course @ <a "https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Present) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
 
-**Summer School on Applied Deep Learning in Bioinformatics @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a>** (Aug 2023)
+**Machine learning in Weather and Climate, Massive Open Online Course @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
+
+**Machine Learning course @ <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master/" target="_blank"> DataTalksClub </a>** (Sep 2023 - Dec 2023) <a href="https://github.com/batxes/MLzoomcamp" target="_blank"> My Code </a>
+
+**Applied Deep Learning in Bioinformatics, Summer School @ <a href="https://rth.dk/media/SummerSchool2023/Poster_SummerSchool2023_v04.pdf" target="_blank"> Copenhagen University </a>** (Aug 2023)
 
 **Review Editor in <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/editors" target="_blank">“Frontiers in Cell and Developmental Biology”</a>** (Aug 2023 - Present)
 
