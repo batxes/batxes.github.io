@@ -37,11 +37,19 @@ I excel in synthesizing information into compelling theses and research articles
 **Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
 - Software development in .Net Micro Framework
 
+## 💻 ML projects
+
+**ML project: Satellite image classification** ( Tensorflow, keras, Docker, flask): <a href="https://github.com/batxes/Satellite-picture-classification-project" target="_blank"> My Code </a>
+
+**Deep Learning project: Rain prediction** (Scikit-learn, Docker, AWS, Elastic BeanStalk, Flask): <a href="https://github.com/batxes/Rain-prediction-project" target="_blank"> My Code </a>
+
+**MLOps project: Drought prediction** (Mlflow, Prefect, Prometheus, Grafana, Docker, Flask, Scikit-learn): <a href="https://github.com/batxes/Drought-predictor-project" target="_blank"> My Code </a>
+
 ## ✍️ Courses/Activities
 
 **AI & Data Engineer Online Training @ <a href="https://www.iu-akademie.de/weiterbildungen/ai-engineer/" target="_blank"> International University </a>** (June 2024 - October 2024) 
 
-**Machine Learning operations (MLOps) course @ <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Present) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
+**Machine Learning operations (MLOps) course @ <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Aug 2024) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
 
 **Machine learning in Weather and Climate, Massive Open Online Course @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
@@ -65,15 +73,17 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 💻 Technical Skills:
 
-- Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
-- Experimenting with Tensorflow, Keras, Flask, AWS lambda and Kubernetes.  
+- Profficient with Python (Pandas, Numpy, Pyplot, Seaborn, Scikit-learn …), Bash, Git, Inkscape, Docker 
+- ML experience: Tensorflow, Keras, AWS, Kubernetes 
+- MLOps experience: Mlflow, Prefect, Prometheus, Grafana
 - Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
+- Experience with embedded systems and -NET micro Framework
 - Software engineering, UML and different development states of informatic projects.
 - Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
 - Functionality and structure of Operatives systems based on Linux.
 - Creation and management of Network protocols.
 - Web positioning (SEO) knowledge.
-- .Net Framework, MS Office Suite, Libre Office. 
+
 
 ## 🎤 Communication in International meetings
 
