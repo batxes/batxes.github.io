@@ -166,3 +166,23 @@ Sent to Molecuar Systems Biology
     "Live-cell structural biology to solve biological mechanisms: The case of the exocyst"  
     Structure, 27 (6), 886-892, 2019  
     DOI: <a href="https://doi.org/10.1016/j.str.2019.04.010">https://doi.org/10.1016/j.str.2019.04.010</a>
+
+## Featured Projects
+
+### [Rain Prediction Model (Machine Learning)](https://github.com/batxes/ML-Rain-prediction-project/tree/main)
+
+<img src="assets/images/kangaroos.jpg" alt="drawing" width="" height=""/>
+
+This is a Machine Learning project that aims to predict the weather.
+I am very interested in climate change and I thought that a model which predicts the rain could be interesting.
+For this project I downloaded a Kaggle dataset which contains 10 years of daily weather observations in Australia.
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
