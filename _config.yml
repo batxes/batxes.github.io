@@ -1,9 +1,0 @@
-theme: jekyll-theme-minimal 
-title: Ibai Irastorza Azcarate's CV 📜
-description: 🌱 Basque 🏔 in Berlin 🏙 
-logo: Me3_fixed_circle.png 
-show_downloads: true
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
-google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
-email: batxes@gmail.com # Allow visitors to contact you
