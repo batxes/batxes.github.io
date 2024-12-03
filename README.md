@@ -12,14 +12,17 @@ I excel in synthesizing information into compelling theses and research articles
 - **B.Sc., Technical Computer Engineering in Computer Systems** | University of Mondragon, Spain (Jul 2003 - Jul 2009)
 
 ## 💼 Work experience 
-**Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a>** (Jun 2018 - Present)
-- Characterization of genomic structural differences between the homologous chromosomes of mouse embryonic stem cells
-- Analysis, interpretation and integration of spatial genomics data with epigenetic data 
+**Post-Doctoral Researcher @ <a href="https://www.mdc-berlin.de/pombo#t-team" target="_blank">MDC-BIMSB (Berlin)</a> Supervisor: Dr. Ana Pombo** (Jun 2018 - Present)
+- Integration of spatial genomics data with epigenetic data
+- Python, Pandas, Numpy, Scikit, Bash, Git, Inkscape, Docker…
+- Data science, data visualization, software engineering, ML algorithms
+- Grant acquisition: FEBS long-term fellowship: 100.000 €
 
-**Ph.D. Candidate @ <a href="https://www.cabd.es/en/research_groups/microbiology-s-platypus/lab-members---collaborators-254.html" target="_blank">CABD (Seville) / Complutense University of Madrid </a>** (Oct 2013 - May 2018)
-- Integrative modeling of the 3D structure of macromolecules
-- 3D modeling of proteins, proteins complexes and chromatin
-- Analysis, interpretation and integration of spatial genomic data, proteomic data and epigenetic data 
+**Ph.D. Candidate @ <a href="https://www.cabd.es/en/research_groups/microbiology-s-platypus/lab-members---collaborators-254.html" target="_blank">CABD (Seville) / Complutense University of Madrid </a> Supervisor: Dr. Damien Devos** (Oct 2013 - May 2018)
+- 3D Modeling and Integration of spatial proteomics and genomics data
+- Python, R, Pandas, Scikit, Bash, Git, Inkscape, Docker…
+- Software engineering, data science, data visualization, ML algorithms
+- HPC administration and R teacher in masters degree.  
 
 **M.Sc. Internship @ <a href="https://www.cos.uni-heidelberg.de/en" target="_blank">University of Heidelberg and the Center for Organismal studies, Heidelberg, Germany</a>** (May 2013 - Sep 2013)
 - Integrative 3D modeling of protein complexes
@@ -29,19 +32,29 @@ I excel in synthesizing information into compelling theses and research articles
 - Game and application development as a freelancer
 
 **Software Developer @ <a href="https://www.accenture.com/es-es" target="_blank">Accenture / BBVA (Madrid)</a>** (Oct 2011 - Aug 2012)
-- Development of different applications. Maintenance and support of bank applications
+- Development of software applications. Maintenance and support of bank applications.
+- Developing, testing, debugging and deploying in Java
 
 **Software Developer @ <a href="https://www.dnb.com/business-directory/company-profiles.mondigital_sl.10ff1802ff897194db0d783759ce1911.html" target="_blank">Mon Digital (IT company, Madrid)</a>** (May 2011 - Oct 2011)
-- Design and development of web sites using Python, Javascript and css.
+- Design, development, testing and deploying of web sites and web crawlers using Python, Django, Javascript and CSS.
 
 **Software Developer @ <a href="https://ses.jrc.ec.europa.eu/eirie/en/etic-embedded-technologies-innovation-center-s-coop-1" target="_blank"> Embedded Technologies Innovation Centre / Microsoft (Arrasate, Spain)</a>** (Sep 2008 - Jul 2009)
-- Software development in .Net Micro Framework
+- Developed software for a medicine dispenser in .Net Micro Framework
+- Designing, developing, testing, debugging and deploying in C#.
+
+## 💻 ML projects
+
+**ML project: Satellite image classification** ( Tensorflow, keras, Docker, flask): <a href="https://github.com/batxes/Satellite-picture-classification-project" target="_blank"> My Code </a>
+
+**Deep Learning project: Rain prediction** (Scikit-learn, Docker, AWS, Elastic BeanStalk, Flask): <a href="https://github.com/batxes/Rain-prediction-project" target="_blank"> My Code </a>
+
+**MLOps project: Drought prediction** (Mlflow, Prefect, Prometheus, Grafana, Docker, Flask, Scikit-learn): <a href="https://github.com/batxes/Drought-predictor-project" target="_blank"> My Code </a>
 
 ## ✍️ Courses/Activities
 
 **AI & Data Engineer Online Training @ <a href="https://www.iu-akademie.de/weiterbildungen/ai-engineer/" target="_blank"> International University </a>** (June 2024 - October 2024) 
 
-**Machine Learning operations (MLOps) course @ <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Present) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
+**Machine Learning operations (MLOps) course @ <a href="https://github.com/DataTalksClub/mlops-zoomcamp" target="_blank"> DataTalksClub </a>** (May 2024 - Aug 2024) <a href="https://github.com/batxes/mlops-zoomcamp" target="_blank"> My Code </a>
 
 **Machine learning in Weather and Climate, Massive Open Online Course @ <a href="https://learning.ecmwf.int/" target="_blank"> ECMWF </a>** (Dec 2023 - Present) <a href="https://github.com/batxes/Machine_Learning_in_Weather_and_Climate" target="_blank"> My Code </a>
 
@@ -65,15 +78,25 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 💻 Technical Skills:
 
-- Python (Pandas, Numpy, Pyplot, Seaborn …), Bash, Git, Inkscape, Docker 
-- Experimenting with Tensorflow, Keras, Flask, AWS lambda and Kubernetes.  
+- Profficient with Python (Pandas, Numpy, Pyplot, Seaborn, Scikit-learn …), Bash, Git, Inkscape, Docker 
+- ML experience: Tensorflow, Keras, AWS, Kubernetes 
+- MLOps experience: Mlflow, Prefect, Prometheus, Grafana
 - Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
+- Experience with embedded systems and -NET micro Framework
 - Software engineering, UML and different development states of informatic projects.
 - Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
 - Functionality and structure of Operatives systems based on Linux.
 - Creation and management of Network protocols.
 - Web positioning (SEO) knowledge.
-- .Net Framework, MS Office Suite, Libre Office. 
+  
+## 🦾 Other Skills
+
+- Working in an independent manner and also in big collaborations
+- Gathering, evaluating and synthesizing of information into articles
+- Project management and mentoring
+- Good communication and presentation skills
+- Good at problem solving and adaptability
+
 
 ## 🎤 Communication in International meetings
 
@@ -101,7 +124,7 @@ I excel in synthesizing information into compelling theses and research articles
 
 ## 🏆 Accomplishments
 
-**FEBS long term fellowship** [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
+**FEBS long term fellowship** 100.000 € [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>
 
 
 ## 💬 Languages
