@@ -1,0 +1,28 @@
+{
+  "experiences": [
+    {
+      "role": "Senior Software Engineer",
+      "location": "Google, Mountain View",
+      "startDate": "2020-01",
+      "endDate": "Present",
+      "image": "berlin.jpg",
+      "tasks": [
+        "Led development of cloud-native applications",
+        "Mentored junior developers",
+        "Implemented CI/CD pipelines"
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "location": "Microsoft, Seattle",
+      "startDate": "2018-03",
+      "endDate": "2019-12",
+      "image": "microsoft.jpg",
+      "tasks": [
+        "Developed Azure cloud solutions",
+        "Optimized database performance",
+        "Created technical documentation"
+      ]
+    }
+  ]
+}

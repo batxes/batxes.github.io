@@ -1,0 +1,16 @@
+{
+  "courses": [
+    {
+      "name": "Deep Learning Specialization",
+      "provider": "Coursera",
+      "year": "2022",
+      "certificate": "link-to-certificate"
+    },
+    {
+      "name": "Advanced Machine Learning",
+      "provider": "Stanford Online",
+      "year": "2021",
+      "certificate": "link-to-certificate"
+    }
+  ]
+}

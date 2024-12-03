@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Data Visualization Tool",
+      "github": "https://github.com/username/project1",
+      "description": "Interactive visualization tool for large-scale genomic data",
+      "image": "project1.jpg",
+      "technologies": [
+        "python",
+        "react",
+        "d3",
+        "docker"
+      ]
+    },
+    {
+      "name": "ML Pipeline",
+      "github": "https://github.com/username/project2",
+      "description": "Automated machine learning pipeline for genomic data analysis",
+      "image": "project2.jpg",
+      "technologies": [
+        "python",
+        "tensorflow",
+        "aws",
+        "kubernetes"
+      ]
+    }
+  ]
+}

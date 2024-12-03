@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "degree": "Ph.D. in Bioinformatics",
+      "location": "University of Barcelona",
+      "year": "2015",
+      "image": "ub.jpg"
+    },
+    {
+      "degree": "M.Sc. in Computer Engineering",
+      "location": "Technical University of Catalonia",
+      "year": "2010",
+      "image": "upc.jpg"
+    }
+  ]
+}

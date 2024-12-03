@@ -6,87 +6,83 @@
     <title>Your Portfolio</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </head>
 
 <body>
     <div class="container">
         <div class="sidebar">
             <h1>Your Name</h1>
-             <nav>
-            <ul>
-                <li><a href="#" data-section="home" class="nav-link active">Home</a></li>
-                <li><a href="#" data-section="experience" class="nav-link">Experience</a></li>
-                <li><a href="#" data-section="education" class="nav-link">Education</a></li>
-                <li><a href="#" data-section="about" class="nav-link">About Me</a></li>
-                <li><a href="#" data-section="projects" class="nav-link">Projects</a></li>
-                <li><a href="#" data-section="publications" class="nav-link">Publications</a></li>
-            </ul>
-        </nav>  
-        <div class="social-links">
-            <a href="https://github.com/yourusername" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-            <a href="https://twitter.com/yourusername" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-            <a href="https://bsky.app/profile/yourusername" target="_blank" title="Bluesky"><i class="fas fa-cloud"></i></a>
-            <a href="https://scholar.google.com/yourid" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
-            <a href="mailto:your.email@domain.com" title="Email"><i class="fas fa-envelope"></i></a>
-        </div>
+            <nav>
+                <ul>
+                    <li><a href="#" data-section="home" class="nav-link">Home</a></li>
+                    <li><a href="#" data-section="experience" class="nav-link">Experience</a></li>
+                    <li><a href="#" data-section="education" class="nav-link">Education</a></li>
+                    <li><a href="#" data-section="projects" class="nav-link">Projects</a></li>
+                    <li><a href="#" data-section="publications" class="nav-link">Publications</a></li>
+                    <li><a href="#" data-section="courses" class="nav-link">Courses</a></li>
+                </ul>
+            </nav>
+            <div class="social-links">
+                <a href="https://github.com/yourusername" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://linkedin.com/in/yourusername" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="https://twitter.com/yourusername" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
+                <a href="https://bsky.app/profile/yourusername" target="_blank" title="Bluesky"><i class="fas fa-cloud"></i></a>
+                <a href="https://scholar.google.com/yourid" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+                <a href="mailto:your.email@domain.com" title="Email"><i class="fas fa-envelope"></i></a>
+            </div>
         </div>
         
         <div class="content">
-                    <section id="home" class="section"></section>
-                <h2>Home</h2>
-                <!-- Add your experience content here -->
+            <section id="home" class="section hidden">
+                <div class="home-content">
+                    <h1>Ibai Irastorza Azcarate, Ph.D.</h1>
+                    <p class="subtitle">Data Science, Engineering, Visualization and ML.</p>
+                    <p class="description">
+                        Ph.D. in Bioinformatics with Computer Engineering
+                        background. 13+ years of experience in research, data
+                        science, and software engineering.
+                    </p>
+                </div>
             </section>
-            <section id="experience" class="section">
+
+            <section id="experience" class="section hidden">
                 <h2>Experience</h2>
-                <!-- Add your experience content here -->
+                <div id="experience-container">
+                    <!-- Experience content will be loaded here -->
+                </div>
             </section>
 
             <section id="education" class="section hidden">
                 <h2>Education</h2>
-                <!-- Add your education content here -->
-            </section>
-
-            <section id="about" class="section hidden">
-                <h2>About Me</h2>
-                <!-- Add your about content here -->
+                <div id="education-container">
+                    <!-- Education content will be loaded here -->
+                </div>
             </section>
 
             <section id="projects" class="section hidden">
                 <h2>Projects</h2>
-                <!-- Add your projects content here -->
+                <div id="projects-container">
+                    <!-- Projects content will be loaded here -->
+                </div>
             </section>
 
             <section id="publications" class="section hidden">
                 <h2>Publications</h2>
-                <!-- Add your publications content here -->
+                <div id="publications-container">
+                    <!-- Publications content will be loaded here -->
+                </div>
+            </section>
+
+            <section id="courses" class="section hidden">
+                <h2>Courses</h2>
+                <div id="courses-container">
+                    <!-- Courses content will be loaded here -->
+                </div>
             </section>
         </div>
     </div>
 
- <script>
-        document.querySelectorAll('.nav-link').forEach(link => {
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                const sectionId = link.getAttribute('data-section');
-                
-                // Remove active class from all links
-                document.querySelectorAll('.nav-link').forEach(l => {
-                    l.classList.remove('active');
-                });
-                
-                // Add active class to clicked link
-                link.classList.add('active');
-                
-                // Hide all sections
-                document.querySelectorAll('.section').forEach(section => {
-                    section.classList.add('hidden');
-                });
-                
-                // Show the selected section
-                document.getElementById(sectionId).classList.remove('hidden');
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

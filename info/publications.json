@@ -1,0 +1,18 @@
+{
+  "publications": [
+    {
+      "title": "Novel approaches in genomic data visualization",
+      "authors": ["Irastorza-Azcarate, I.", "Smith, J.", "Johnson, M."],
+      "year": "2023",
+      "journal": "Nature Methods",
+      "doi": "10.1038/xxxxx"
+    },
+    {
+      "title": "Machine learning applications in genomics",
+      "authors": ["Johnson, M.", "Irastorza-Azcarate, I.", "Davis, R."],
+      "year": "2022",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/xxxxx"
+    }
+  ]
+}
