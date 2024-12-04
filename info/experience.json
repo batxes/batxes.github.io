@@ -1,11 +1,11 @@
 {
   "experiences": [
     {
-      "role": "Senior Software Engineer",
-      "location": "Google, Mountain View",
-      "startDate": "2020-01",
-      "endDate": "Present",
-      "image": "berlin.jpg",
+      "role": "Senior Data Scientist | Bioinformatics | Postdoctoral Researcher",
+      "location": "Max Delbrück Center for Molecular Medicine, Berlin",
+      "startDate": "2018-06",
+      "endDate": "2024-07",
+      "image": "mdc.jpg",
       "tasks": [
         "Led development of cloud-native applications",
         "Mentored junior developers",
