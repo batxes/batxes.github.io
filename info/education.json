@@ -1,16 +1,28 @@
 {
   "education": [
     {
-      "degree": "Ph.D. in Bioinformatics",
-      "location": "University of Barcelona",
-      "year": "2015",
-      "image": "ub.jpg"
+      "degree": "Ph.D. in Bioinformatics, Highest Honors",
+      "location": "Complutense University of Madrid",
+      "year": "2018",
+      "image": "phd.jpg"
     },
     {
-      "degree": "M.Sc. in Computer Engineering",
-      "location": "Technical University of Catalonia",
-      "year": "2010",
-      "image": "upc.jpg"
+      "degree": "M.Sc. in Bioinformatics, 7.9/10",
+      "location": "National Health Institute Carlos III, Madrid",
+      "year": "2012",
+      "image": "master.jpg"
+    },
+    {
+      "degree": "B.Sc. in Computer Engineering, 7.6/10",
+      "location": "Complutense University of Madrid",
+      "year": "2011",
+      "image": "ucm.jpg"
+    },
+    {
+      "degree": "B.Sc. in Technical Engineering in Computer Systems, 6.11/10",
+      "location": "University of Mondragon, Arrasate-Mondragon",
+      "year": "2009",
+      "image": "mu.jpg"
     }
   ]
 }

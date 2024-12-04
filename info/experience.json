@@ -7,21 +7,50 @@
       "endDate": "2024-07",
       "image": "mdc.jpg",
       "tasks": [
-        "Led development of cloud-native applications",
-        "Mentored junior developers",
-        "Implemented CI/CD pipelines"
+	"Led end-to-end research projects resulting in 2 first-author and 6 co-authored publications like Nature and Nature Methods (200+ citations) in genome structure and gene regulation.",
+	"Secured €100,000 research grant, designing and leading an end-to-end project that was presented in international conferences, established collaborations with 3 research institutions and contributed to the field with an open source software application."
       ]
     },
     {
-      "role": "Software Developer",
-      "location": "Microsoft, Seattle",
-      "startDate": "2018-03",
-      "endDate": "2019-12",
-      "image": "microsoft.jpg",
+      "role": "Data Scientist | Software Developer | Bioinformatics",
+      "location": "CABD, Seville",
+      "startDate": "2013-10",
+      "endDate": "2018-05",
+      "image": "cabd.jpeg",
       "tasks": [
-        "Developed Azure cloud solutions",
-        "Optimized database performance",
-        "Created technical documentation"
+	"Led the data analysis and software development of multi disciplinary teams, resulting in 3 first-author publications in Cell, Nature Genetics, PLOS Comp Bio, with combined impact factor >90.",
+"Developed a novel open source 3D modeling algorithm adopted by 10 international projects.",
+"Instructed 20+ master's students in R/Linux programming, achieving 72% positive feedback score.",
+"Managed the High Performance Computer infrastructure of the University supporting 100+ users"
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "location": "Accenture (Banking), Madrid",
+      "startDate": "2011-09",
+      "endDate": "2012-08",
+      "image": "accenture.jpg",
+      "tasks": ["Maintained and developed critical banking applications serving 100+ daily users with 99.9% uptime."
+      ]
+    },
+
+    {
+      "role": "Software/Web Developer",
+      "location": "Mon Digital (IT Company), Madrid",
+      "startDate": "2011-05",
+      "endDate": "2011-10",
+      "image": "",
+      "tasks": ["Developed web crawlers which led to the deployment of a high-traffic website in Brazil."
+      ]
+    },
+
+    {
+      "role": "Software Developer | Embedded Systems",
+      "location": "ETIC (Microsoft), Arrasate-Mondragon",
+      "startDate": "2008-09",
+      "endDate": "2009-07",
+      "image": "etic.jpg",
+      "tasks": [" Developed software for an embedded system that served as the foundation for a prototype, which was later commercialized, demonstrating its practical viability and market potential."
       ]
     }
   ]
