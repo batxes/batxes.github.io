@@ -1,18 +1,46 @@
 {
   "publications": [
     {
-      "title": "Novel approaches in genomic data visualization",
-      "authors": ["Irastorza-Azcarate, I.", "Smith, J.", "Johnson, M."],
-      "year": "2023",
-      "journal": "Nature Methods",
-      "doi": "10.1038/xxxxx"
+      "title": "Extensive folding variability between homologous chromosomes in mammalian cells",
+      "authors": ["Ibai Irastorza-Azcarate, Alexander Kukalev, Rieke Kempfer, Christoph J Thieme, Guido Mastrobuoni, Julia Markowski, Gesa Loof, Thomas M Sparks, Emily Brookes, Kedar Nath Natarajan, Stephan Sauer, Amanda G Fisher, Mario Nicodemi, Bing Ren, Roland F Schwarz, Stefan Kempa, Ana Pombo"],
+      "year": "2024",
+      "journal": "bioRxiv (Soon Molecular Systems Biology)",
+      "doi": "https://doi.org/10.1101/2024.05.08.591087"
     },
     {
-      "title": "Machine learning applications in genomics",
-      "authors": ["Johnson, M.", "Irastorza-Azcarate, I.", "Davis, R."],
-      "year": "2022",
-      "journal": "Bioinformatics",
-      "doi": "10.1093/xxxxx"
+      "title": "Live-cell structural biology to solve biological mechanisms: The case of the exocyst",
+      "authors": ["Ibai Irastorza-Azcarate, Daniel Castaño-Díez, Damien P Devos, Oriol Gallego"],
+      "year": "2019",
+      "journal": "Structure",
+      "doi": "https://doi.org/10.1016/j.str.2019.04.010"
+    },
+    {
+      "title": "4Cin: A computational pipeline for 3D genome modeling and virtual Hi-C analyses from 4C data",
+      "authors": ["Ibai Irastorza-Azcarate, Rafael D Acemel, Juan J Tena, Ignacio Maeso, José Luis Gómez-Skarmeta, Damien P Devos"],
+      "year": "2018",
+      "journal": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1006030"
+    },
+    {
+      "title": "The in vivo architecture of the exocyst provides structural basis for exocytosis",
+      "authors": ["The in vivo architecture of the exocyst provides structural basis for exocytosis"],
+      "year": "2017",
+      "journal": "Cell",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2017.01.004"
+    },
+    {
+      "title": "A single three-dimensional chromatin compartment in amphioxus indicates a stepwise evolution of vertebrate Hox bimodal regulation",
+      "authors": ["Rafael D Acemel, Juan J Tena, Ibai Irastorza-Azcarate, Ferdinand Marlétaz, Carlos Gómez-Marín, Elisa de la Calle-Mustienes, Stéphanie Bertrand, Sergio G Diaz, Daniel Aldea, Jean-Marc Aury, Sophie Mangenot, Peter WH Holland, Damien P Devos, Ignacio Maeso, Hector Escrivá, José Luis Gómez-Skarmeta"],
+      "year": "2016",
+      "journal": "Nature Genetics",
+      "doi": "https://doi.org/10.1038/ng.3497"
+    },
+    {
+      "title": "",
+      "authors": [],
+      "year": "",
+      "journal": "",
+      "doi": ""
     }
   ]
 }

@@ -1,16 +1,36 @@
 {
   "courses": [
     {
-      "name": "Deep Learning Specialization",
-      "provider": "Coursera",
-      "year": "2022",
-      "certificate": "link-to-certificate"
+      "name": "Large Language Models (LLM) Course",
+      "provider": "DataTalksClub",
+      "year": "June 2024 - August 2024",
+      "certificate": "https://github.com/DataTalksClub/llm-zoomcamp/tree/main"
     },
     {
-      "name": "Advanced Machine Learning",
-      "provider": "Stanford Online",
-      "year": "2021",
-      "certificate": "link-to-certificate"
+      "name": "AI Engineering Course",
+      "provider": "International University Akademie",
+      "year": "June 2024 - October 2024",
+      "certificate": "https://www.iu-akademie.de/weiterbildungen/ai-engineer/"
+    },
+    {
+      "name": "Machine Learning operations (MLOps) course",
+      "provider": "DataTalksClub",
+      "year": "May 2024 - Aug 2024",
+      "certificate": "https://github.com/DataTalksClub/mlops-zoomcamp"
+    },
+    {
+      "name": "Machine learning in Weather and Climate, Massive Open Online Course",
+      "provider": "European Center for Medium-Range Weather Forecasts",
+      "year": "Dec 2023 - Present",
+      "certificate": "https://learning.ecmwf.int/"
+    },
+    {
+      "name": "Machine Learning course",
+      "provider": "DataTalksClub",
+      "year": "Sep 2023 - Dec 2023",
+      "certificate": "https://github.com/batxes/MLzoomcamp"
     }
   ]
 }
+
+

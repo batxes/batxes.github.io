@@ -1,16 +1,21 @@
 {
   "projects": [
     {
-      "name": "Multi Agent Reinforcement Learning",
-      "github": "https://github.com/batxes/MARL_reach_objective",
-      "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
-      "image": "marl.png",
+      "name": "Deep Learning Satellite Picture Classification",
+      "github": "https://github.com/batxes/DL-Satellite-picture-classification-project",
+      "description": "This is a Machine Learning project that aims to predict or classify satellite pictures into classes of lands. I downloaded the data from: https://www.tensorflow.org/datasets/catalog/eurosat#eurosatrgb_default_config This dataset contains 27000 labeled pictures and they consist in total 10 different classes of lands.",
+      "image": "satellite.jpg",
       "technologies": [
         "python",
-        "torch",
-        "numpy",
-        "gym",
-	"matplotlib"
+        "docker",
+	      "tensorflow",
+        "scikit-learn",
+	      "flask",
+	      "gunicorn",
+	      "matplotlib",
+	      "seaborn",
+	      "pandas",
+	      "numpy"
       ]
     },
     {
@@ -22,13 +27,60 @@
         "python",
         "aws",
         "docker",
-	"scikit-learn",
-	"flask",
-	"gunicorn",
-	"matplotlib",
-	"seaborn",
-	"pandas",
-	"numpy"
+	      "scikit-learn",
+	      "flask",
+	      "gunicorn",
+	      "matplotlib",
+	      "seaborn",
+	      "pandas",
+	      "numpy"
+      ]
+    },
+     {
+      "name": "MLOps Drought Prediction",
+      "github": "https://github.com/batxes/MLOPS-Drought-predictor-project",
+      "description": "Complete end-to-end MLOps implementation for training, maintaining and monitoring a machine learning model that predicts droughts. ",
+      "image": "mlops.jpg",
+      "technologies": [
+        "python",
+        "mlflow",
+        "prefect",
+        "grafana",
+        "prometheus",
+        "docker",
+        "docker-compose",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+	      "matplotlib",
+        "unittest"
+      ]
+    },
+    {
+      "name": "LLM Steel Type Classification",
+      "github": "https://github.com/batxes/LLM_steel_classification",
+      "description": "LLM project that is able to classify types and features of steel from plain text. ",
+      "image": "steel.webp",
+      "technologies": [
+        "python",
+        "torch",
+        "scikit-learn",
+        "numpy",
+        "transformers",
+	      "matplotlib"
+      ]
+    },
+    {
+      "name": "Multi Agent Reinforcement Learning",
+      "github": "https://github.com/batxes/MARL_reach_objective",
+      "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
+      "image": "marl.png",
+      "technologies": [
+        "python",
+        "torch",
+        "numpy",
+        "gym",
+	      "matplotlib"
       ]
     }
   ]

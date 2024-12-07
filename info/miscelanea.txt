@@ -1,0 +1,48 @@
+## 💻 Technical Skills:
+- Profficient with Python (Pandas, Numpy, Pyplot, Seaborn, Scikit-learn …), Bash, Git, Inkscape, Docker 
+- ML experience: Tensorflow, Keras, AWS, Kubernetes 
+- MLOps experience: Mlflow, Prefect, Prometheus, Grafana
+- Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
+- Experience with embedded systems and -NET micro Framework
+- Software engineering, UML and different development states of informatic projects.
+- Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
+- Functionality and structure of Operatives systems based on Linux.
+- Creation and management of Network protocols.
+- Web positioning (SEO) knowledge.
+  
+## 🦾 Other Skills
+
+- Working in an independent manner and also in big collaborations
+- Gathering, evaluating and synthesizing of information into articles
+- Project management and mentoring
+- Good communication and presentation skills
+- Good at problem solving and adaptability
+
+
+## 🎤 Communication in International meetings
+
+- Climate Career week (25/03/2024)
+- CABD 20th scientific anniversary, Sevilla (Oral Communication) (06/06/2023) 
+- SPP2202 monthly meeting (Oral Communication, Online) (10/05/2023) 
+- Joint Meeting in Neuroepigenetics, Alicante (Organization and Oral Communication) (31/03/2023) 
+- 4DN monthly meeting (Oral Communication, Online) (06/03/2023) 
+- Annual lab retreat, Berlin (Oral Communication) (21/11/2022) 
+- Till Bartke Lab retreat, Berlin (Oral Communication, invited speaker) (21/09/2022) 
+- Bioinformatics Social Meetings, Berlin (Oral Communication, Online) (27/01/2021) 
+- 4D Epigenome conference, Venice (02/10/2019) 
+- 4DN-ASCB Satellite Meeting, San Diego (Oral Communication) (06/12/2018) 
+- 4DN Annual Meeting, San Diego (04/12/2018) 
+- Annual lab retreat, Berlin (Oral Communication) (21/11/2018) 
+- 3D/4D organization of chromatin, BioMed Conference, Barcelona. (13/11/2017) 
+- ZENCODE/DevCom Conference, Carmona (27/03/2017) 
+- 4D Genome ERC Workshop. Dynamics of Genome Structure, Barcelona. (22/09/2016) 
+- XIII Symposium on Bioinformatics. Valencia, Spain. (Oral Communication, Highlight Talk) (10/05/2016) 
+- HPC admin tech 2016 conference, Madrid. (02/03/2016) 
+- IX meeting of the Protein Structure and Function Network, Sevilla (Oral Communication) (11/11/2015) 
+- ISMB/ECCB 2015, Dublin (10/07/2015) 
+- 13th European Conference on Computational Biology, Strasburg (07/09/2014) 
+- V IMMPC Annual Conference and 4DCellFate Workshop, Barcelona (Oral Communication) (27/03/2014) 
+
+## 🏆 Accomplishments
+
+**FEBS long term fellowship** 100.000 € [https://www.febs.org/funding/fellowships/](https://www.febs.org/funding/fellowships/) _(Jun 2018 - Dec 2020)_ <br>

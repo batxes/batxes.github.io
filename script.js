@@ -1,3 +1,50 @@
+const techIconMap = {
+    // Programming Languages
+    'python': 'devicon-python-plain colored',
+    'Python': 'devicon-python-plain colored',
+    
+    // ML/DL Frameworks
+    'torch': 'devicon-pytorch-original colored',
+    'PyTorch': 'devicon-pytorch-original colored',
+    'tensorflow': 'devicon-tensorflow-original colored',
+    'numpy': 'devicon-numpy-original colored',
+    'NumPy': 'devicon-numpy-original colored',
+    'pandas': 'devicon-pandas-original colored',
+    'Pandas': 'devicon-pandas-original colored',
+    'scikit-learn': 'devicon-scikitlearn-plain colored',
+    'Scikit-learn': 'devicon-scikilearn-plain colored',
+    'mlflow': 'fas fa-chart-line', // Using a chart icon for MLflow
+    'transformers': 'devicon-huggingface-plain colored',
+
+
+    // Cloud/Deployment
+    'aws': 'devicon-amazonwebservices-original colored',
+    'AWS': 'devicon-amazonwebservices-original colored',
+    'docker': 'devicon-docker-plain colored',
+    'Docker': 'devicon-docker-plain colored',
+    'flask': 'devicon-flask-original colored',
+    'Flask': 'devicon-flask-original colored',
+
+    'docker-compose': 'devicon-docker-plain colored',
+    'grafana': 'devicon-grafana-original colored',
+    'prometheus': 'fas fa-tachometer-alt', // Using a dashboard icon for Prometheus
+    'prefect': 'fas fa-tasks', // Using a tasks icon for Prefect
+    
+    // Testing
+    'unittest': 'fas fa-vial', // Using a test tube icon for unittest
+    
+
+    // Others
+    'matplotlib': 'devicon-matplotlib-plain colored',
+    'Matplotlib': 'devicon-matplotlib-plain colored',
+    'gunicorn': 'fas fa-server',
+    'Gunicorn': 'fas fa-server',
+    'seaborn': 'fas fa-chart-line',
+    'Seaborn': 'fas fa-chart-line',
+    'gym': 'fas fa-robot',
+    'Gym': 'fas fa-robot'
+};
+
 // Function to format date
 function formatDate(dateString) {
     if (dateString === 'Present') return dateString;
@@ -71,9 +118,15 @@ async function loadProjects() {
                     <h3><a href="${project.github}" target="_blank">${project.name}</a></h3>
                     <p>${project.description}</p>
                     <div class="tech-stack">
-                        ${project.technologies.map(tech => `
-                            <i class="tech-icon devicon-${tech}-plain" title="${tech}"></i>
-                        `).join('')}
+                        ${project.technologies.map(tech => {
+                            const iconClass = techIconMap[tech] || 'fas fa-code';
+                            return `
+                                <div class="tech-icon">
+                                    <i class="${iconClass}"></i>
+                                    <span>${tech}</span>
+                                </div>
+                            `;
+                        }).join('')}
                     </div>
                 </div>
                 <img src="images/${project.image}" alt="${project.name}" class="experience-image">
@@ -182,7 +235,7 @@ async function loadCourses() {
                     <h3>${course.name}</h3>
                     <p>${course.provider} (${course.year})</p>
                 </div>
-                <a href="${course.certificate}" target="_blank" class="btn">View Certificate</a>
+                <a href="${course.certificate}" target="_blank" class="btn">View Course</a>
             </div>
         `).join('');
     } catch (error) {
@@ -223,6 +276,12 @@ function showSection(sectionId) {
             case 'courses':
                 loadCourses();
                 break;
+            case 'other':    // Add this case
+                loadOther();
+                break;
+            case 'miscelanea':    // Add this case
+                loadMiscelanea();
+                break;
         }
     }
 }
@@ -251,3 +310,85 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// Add this function with your other loading functions
+async function loadOther() {
+    try {
+        console.log('Loading other...');
+        const response = await fetch('info/other.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        console.log('Other data:', data);
+        
+        const container = document.getElementById('other-container');
+        if (!container) {
+            throw new Error('Other container not found!');
+        }
+        
+        container.innerHTML = data.other.map(item => `
+            <div class="experience-item full-width">
+                <div class="experience-content full-width-content">
+                    <div class="experience-header">
+                        <div class="full-width-header">
+                            <div class="experience-title">${item.title}</div>
+                            <div class="experience-date">${item.year}</div>
+                        </div>
+                    </div>
+                    <p class="description full-width-description">${item.description}</p>
+                </div>
+            </div>
+        `).join('');
+    } catch (error) {
+        console.error('Error loading other:', error);
+        const container = document.getElementById('other-container');
+        if (container) {
+            container.innerHTML = `<p>Error loading other: ${error.message}</p>`;
+        }
+    }
+}
+async function loadMiscelanea() {
+    try {
+        console.log('Loading miscelanea...');
+        const response = await fetch('info/miscelanea.txt');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const content = await response.text();
+        console.log('Miscelanea content:', content);
+        
+        const container = document.getElementById('miscelanea-container');
+        if (!container) {
+            throw new Error('Miscelanea container not found!');
+        }
+        
+        container.innerHTML = `
+            <div class="experience-item full-width">
+                <div class="experience-content full-width-content">
+                    ${content.split('\n').map(line => {
+                        if (line.startsWith('##')) {
+                            // Headers with emojis
+                            return `<h3 class="section-title">${line.replace('##', '').trim()}</h3>`;
+                        } else if (line.startsWith('-')) {
+                            // List items
+                            return `<div class="list-item">${line.substring(1).trim()}</div>`;
+                        } else if (line.trim() === '') {
+                            // Empty lines
+                            return '<div class="spacer"></div>';
+                        } else {
+                            // Regular text (including links and formatting)
+                            return `<p>${line}</p>`;
+                        }
+                    }).join('')}
+                </div>
+            </div>
+        `;
+    } catch (error) {
+        console.error('Error loading miscelanea:', error);
+        const container = document.getElementById('miscelanea-container');
+        if (container) {
+            container.innerHTML = `<p>Error loading miscelanea: ${error.message}</p>`;
+        }
+    }
+}
