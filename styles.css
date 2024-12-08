@@ -209,6 +209,14 @@ nav ul li {
 }
 
 /* Experience and Education styles */
+
+.experience-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    cursor: pointer;
+}
+
 .experience-item {
     position: relative;
     margin-bottom: 30px;
@@ -224,6 +232,82 @@ nav ul li {
     margin-left: auto;  /* center the container */
     margin-right: auto;
 }
+/* Hover effects */
+.experience-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* Slide-in animation for content on hover */
+.experience-content {
+    transition: all 0.3s ease;
+}
+
+.experience-item:hover .experience-content {
+    transform: translateX(10px);
+}
+
+/* Title animation */
+.experience-title {
+    transition: color 0.3s ease;
+}
+
+.experience-item:hover .experience-title {
+    color: #007bff;
+}
+
+/* Achievement list animation */
+.experience-achievements li {
+    transition: all 0.3s ease;
+    position: relative;
+    padding-left: 20px;
+}
+
+.experience-achievements li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    transition: all 0.3s ease;
+}
+
+.experience-item:hover .experience-achievements li {
+    transform: translateX(5px);
+}
+
+/* Arrow indicator for link */
+.experience-item::after {
+    content: '↗';
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 1.2em;
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+.experience-item:hover::after {
+    opacity: 1;
+    transform: translateX(5px);
+}
+
+/* Optional: Add a subtle background color change */
+.experience-item {
+    background: linear-gradient(45deg, #fff 50%, #f8f9fa 50%);
+    background-size: 250% 100%;
+    background-position: 0 0;
+    transition: all 0.3s ease, background-position 0.5s ease;
+}
+
+.experience-item:hover {
+    background-position: -100% 0;
+}
+
+/* Make sure links don't have the default blue color */
+.experience-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
 
 .experience-content {
     display: flex;
@@ -427,6 +511,131 @@ nav ul li {
 .project-content h3 a:hover {
     color: #000;
 }
+.project-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    cursor: pointer;
+}
+
+.project-item {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Hover effects */
+.project-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* Slide-in animation for content on hover */
+.project-content {
+    transition: all 0.3s ease;
+}
+
+.project-item:hover .project-content {
+    transform: translateX(10px);
+}
+
+/* Title animation */
+.project-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.project-item:hover .project-title {
+    color: #007bff;
+}
+
+/* Project header styles */
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.project-tech {
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 5px;
+}
+
+.project-date {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.project-description {
+    font-size: 0.95em;
+    line-height: 1.5;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+.project-item:hover .project-achievements li {
+    transform: translateX(5px);
+}
+
+/* Arrow indicator for link */
+.project-item::after {
+    content: '↗';
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 1.2em;
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+.project-item:hover::after {
+    opacity: 1;
+    transform: translateX(5px);
+}
+
+/* Background gradient effect */
+.project-item {
+    background: linear-gradient(45deg, #fff 50%, #f8f9fa 50%);
+    background-size: 250% 100%;
+    background-position: 0 0;
+    transition: all 0.3s ease, background-position 0.5s ease;
+}
+
+.project-item:hover {
+    background-position: -100% 0;
+}
+
+/* Make sure links don't have the default blue color */
+.project-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .project-header {
+        flex-direction: column;
+    }
+    
+    .project-date {
+        margin-top: 5px;
+    }
+    
+    .project-item::after {
+        top: 15px;
+        right: 15px;
+    }
+}
+
 
 .tech-stack {
     display: flex;
@@ -559,7 +768,7 @@ nav ul li {
 .section-title {
     font-size: 1.5em;
     color: #333;
-    margin: 30px 0 20px 0;
+    margin: 0px 0 20px 0;
     padding-bottom: 10px;
     border-bottom: 2px solid #eee;
 }
@@ -582,7 +791,7 @@ nav ul li {
 }
 
 .full-width-content {
-    padding: 20px;
+    padding: 00px;
 }
 
 .full-width-content p {

@@ -72,7 +72,7 @@
     },
     {
       "name": "Multi Agent Reinforcement Learning",
-      "github": "https://github.com/batxes/MARL_reach_objective",
+      "github": "https://github.com/batxes/MARL_reach_objectivea",
       "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
       "image": "marl.png",
       "technologies": [
@@ -80,6 +80,18 @@
         "torch",
         "numpy",
         "gym",
+	      "matplotlib"
+      ]
+    },
+    {
+      "name": "4Cin: Software to generate 3D chromatin models",
+      "github": "https://github.com/batxes/4cin",
+      "description": "The software uses 4C-seq experiments to trilaterate the position of genomic loci and generate 3D model structures. The core of the modeling is based on IMP (https://integrativemodeling.org/)",
+      "image": "4cin.png",
+      "technologies": [
+        "python",
+        "scipy",
+        "numpy",
 	      "matplotlib"
       ]
     }

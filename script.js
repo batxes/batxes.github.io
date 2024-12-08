@@ -69,6 +69,7 @@ async function loadExperiences() {
         }
         
         container.innerHTML = data.experiences.map(exp => `
+            <a href="${exp.link}" target="_blank" class="experience-link">
             <div class="experience-item">
                 <div class="experience-content">
                     <div class="experience-header">
@@ -86,6 +87,7 @@ async function loadExperiences() {
                 </div>
                 <img src="images/${exp.image}" alt="${exp.role}" class="experience-image">
             </div>
+            </a>
         `).join('');
     } catch (error) {
         console.error('Error loading experiences:', error);
@@ -113,9 +115,10 @@ async function loadProjects() {
         }
         
         container.innerHTML = data.projects.map(project => `
+            <a href="${project.github}" target="_blank" class="project-link">
             <div class="project-item">
                 <div class="project-content">
-                    <h3><a href="${project.github}" target="_blank">${project.name}</a></h3>
+                    <h3>${project.name}</h3>
                     <p>${project.description}</p>
                     <div class="tech-stack">
                         ${project.technologies.map(tech => {
@@ -131,6 +134,7 @@ async function loadProjects() {
                 </div>
                 <img src="images/${project.image}" alt="${project.name}" class="experience-image">
             </div>
+            </a>
         `).join('');
     } catch (error) {
         console.error('Error loading projects:', error);
