@@ -922,3 +922,234 @@ h1 {
     text-align: left;  /* Add this line */
 }
 
+/* Mobile-friendly styles */
+@media (max-width: 768px) {
+    /* Container and layout */
+    .container {
+        flex-direction: column;
+    }
+
+    /* Sidebar */
+    .sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+        padding: 15px;
+        border-right: none;
+        border-bottom: 1px solid #eaeaea;
+    }
+
+    .sidebar h1 {
+        font-size: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    /* Navigation */
+    nav ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    nav ul li {
+        margin: 0;
+    }
+
+    .nav-link {
+        padding: 8px 12px;
+        font-size: 14px;
+        background: #f0f0f0;
+        border-radius: 15px;
+    }
+
+    /* Social links */
+    .social-links {
+        justify-content: center;
+        padding-top: 15px;
+        margin-top: 15px;
+    }
+
+    /* Main content */
+    .content {
+        margin-left: 0;
+        padding: 15px;
+    }
+
+    /* Home/About section */
+    .home-content {
+        padding: 10px;
+    }
+
+    .subtitle {
+        font-size: 1em;
+        text-align: center;
+    }
+
+    /* Grid layout */
+    .grid-container {
+        grid-template-columns: 1fr;
+        gap: 15px;
+        padding: 10px;
+    }
+
+    .grid-content {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .grid-image {
+        flex: 0 0 60px;
+    }
+
+    .grid-image img {
+        height: 60px;
+    }
+
+    /* Skills summary */
+    .tech-category {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .tech-icons {
+        justify-content: flex-start;
+        gap: 15px;
+    }
+
+    .tech-icon {
+        min-width: 50px;
+    }
+
+    /* Education section */
+    .education-item {
+        grid-template-columns: 1fr;
+        padding: 15px;
+    }
+
+    .education-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .education-date {
+        margin-top: 5px;
+    }
+
+    .education-image {
+        width: 40%;
+        margin: 10px auto;
+    }
+
+    /* Experience section */
+    .experience-item {
+        padding: 15px;
+    }
+
+    .experience-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .experience-date {
+        margin-top: 5px;
+    }
+
+    /* Projects section */
+    .project-item {
+        padding: 15px;
+    }
+
+    .project-header {
+        flex-direction: column;
+    }
+
+    .project-date {
+        margin-top: 5px;
+    }
+
+    /* Key achievements */
+    .key-achievements ul {
+        padding-left: 10px;
+    }
+
+    .key-achievements li {
+        font-size: 0.9em;
+    }
+
+    /* Contact info */
+    .contact-info {
+        text-align: center;
+        font-size: 0.9em;
+    }
+
+    /* Animations */
+    .experience-item:hover,
+    .project-item:hover,
+    .education-item:hover {
+        transform: none;
+    }
+
+    .experience-item:hover .experience-content,
+    .project-item:hover .project-content {
+        transform: none;
+    }
+
+    /* Font sizes */
+    h1 { font-size: 1.5em; }
+    h2 { font-size: 1.3em; }
+    h3 { font-size: 1.1em; }
+    p { font-size: 0.9em; }
+
+    /* Spacing */
+    .section {
+        margin-bottom: 30px;
+    }
+
+    /* Hide arrow indicators on mobile */
+    .experience-item::after,
+    .project-item::after {
+        display: none;
+    }
+}
+
+/* Additional breakpoint for very small screens */
+@media (max-width: 480px) {
+    .nav-link {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+
+    .grid-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .grid-image {
+        margin-bottom: 10px;
+    }
+
+    .tech-icons {
+        justify-content: center;
+    }
+
+    .education-image {
+        width: 60%;
+    }
+}
+
+/* Fix for medium-sized tablets */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .sidebar {
+        width: 220px;
+    }
+
+    .content {
+        margin-left: 220px;
+    }
+
+    .grid-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
