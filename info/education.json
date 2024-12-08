@@ -4,25 +4,29 @@
       "degree": "Ph.D. in Bioinformatics, Highest Honors",
       "location": "Complutense University of Madrid",
       "year": "2018",
-      "image": "phd.jpg"
+      "image": "phd.jpg",
+      "link": "https://edoctorado.ucm.es/"
     },
     {
       "degree": "M.Sc. in Bioinformatics, 7.9/10",
       "location": "National Health Institute Carlos III, Madrid",
       "year": "2012",
-      "image": "master.jpg"
+      "image": "master.jpg",
+      "link": "https://masterbioinformatica.com/"
     },
     {
       "degree": "B.Sc. in Computer Engineering, 7.6/10",
       "location": "Complutense University of Madrid",
       "year": "2011",
-      "image": "ucm.jpg"
+      "image": "ucm.jpg",
+      "link": "https://informatica.ucm.es/"
     },
     {
       "degree": "B.Sc. in Technical Engineering in Computer Systems, 6.11/10",
       "location": "University of Mondragon, Arrasate-Mondragon",
       "year": "2009",
-      "image": "mu.jpg"
+      "image": "mu.jpg",
+      "link": "https://www.mondragon.edu/en/home"
     }
   ]
 }

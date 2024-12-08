@@ -110,27 +110,102 @@ nav ul li {
 
 /* Home styles */
 .home-content {
-    max-width: 600px;
+    max-width: 1200px;
     margin: 0 auto;
-    text-align: center;
-    padding: 40px 0;
+    padding: 20px;
+    text-align: left;
 }
 
-.home-content h1 {
-    font-size: 2.5em;
-    margin-bottom: 20px;
-}
-
-.home-content .subtitle {
+.subtitle {
     font-size: 1.2em;
     color: #666;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    line-height: 1.6;
+    text-align: left;
 }
 
-.home-content .description {
-    font-size: 1.1em;
+.description {
     line-height: 1.6;
-    color: #444;
+    color: #333;
+    text-align: left;
+}
+
+.description p {
+    margin: 20px 0;
+    text-align: left;
+}
+
+/* Grid layout for skills/expertise */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    margin: 40px 0;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.grid-item {
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 100%;
+    transition: all 0.3s ease;
+}
+
+.grid-content {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.grid-image {
+    flex: 0 0 100px;
+}
+
+.grid-image img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.grid-description {
+    flex: 1;
+}
+
+.grid-title {
+    color: #333;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #eee;
+}
+
+.grid-description p {
+    margin: 0;
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: #666;
+}
+
+/* Grid hover effects */
+.grid-item:hover {
+    background: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    transform: translateY(-3px);
+}
+
+.grid-item:hover .grid-description p {
+    color: #333;
+}
+
+.grid-item:hover .grid-title {
+    color: #007bff;
 }
 
 /* Experience and Education styles */
@@ -201,6 +276,132 @@ nav ul li {
     border-radius: 4px;
     margin: 0 auto;  /* centers the image horizontally */
     display: block;  /* helps with centering */
+}
+
+/* Education section styles */
+.education-item {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 15px;
+    transition: all 0.3s ease;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    min-height: 150px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.education-content {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0;
+}
+
+.education-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.education-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+}
+
+.education-location {
+    font-size: 0.85em;
+    color: #666;
+}
+
+.education-date {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.education-image {
+    width: 70%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 4px;
+    margin: 0 auto;
+    display: block;
+}
+
+/* Thin container specific styles */
+.thin-container {
+    padding: 10px !important;
+    margin-bottom: 15px !important;
+}
+
+.thin-container .education-header {
+    margin-bottom: 5px;
+}
+
+.thin-container .education-title {
+    font-size: 1.1em;
+}
+
+.thin-container .education-location {
+    font-size: 0.85em;
+}
+
+.thin-container .education-date {
+    font-size: 0.9em;
+}
+
+.small-image {
+    max-height: 100px !important;
+    object-fit: cover;
+}
+
+/* Education hover effect */
+.education-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Education link styles */
+.education-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.education-link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Responsive design for education section */
+@media (max-width: 768px) {
+    .education-item {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+
+    .education-header {
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: center;
+    }
+
+    .education-date {
+        margin-top: 5px;
+    }
+
+    .education-image {
+        width: 50%;
+        margin: 10px auto;
+    }
+
+    .thin-container {
+        padding: 15px !important;
+    }
 }
 
 /* Projects styles */
@@ -511,3 +712,4 @@ h1 {
     font-weight: bold;
     text-align: left;  /* Add this line */
 }
+

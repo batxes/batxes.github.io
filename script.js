@@ -191,18 +191,20 @@ async function loadEducation() {
         }
         
         container.innerHTML = data.education.map(edu => `
-            <div class="experience-item">
-                <div class="experience-content">
-                    <div class="experience-header">
+            <a href="${edu.link}" target="_blank" class="education-link">
+            <div class="education-item thin-container">
+                <div class="education-content">
+                    <div class="education-header">
                         <div>
-                            <div class="experience-title">${edu.degree}</div>
-                            <div class="experience-location">${edu.location}</div>
+                            <div class="education-title">${edu.degree}</div>
+                            <div class="education-location">${edu.location}</div>
                         </div>
-                        <div class="experience-date">${edu.year}</div>
+                        <div class="education-date">${edu.year}</div>
                     </div>
                 </div>
-                <img src="images/${edu.image}" alt="${edu.degree}" class="experience-image">
+                <img src="images/${edu.image}" alt="${edu.degree}" class="education-image small-image">
             </div>
+            </a>
         `).join('');
     } catch (error) {
         console.error('Error loading education:', error);
