@@ -1196,74 +1196,70 @@ h1 {
         border-top: 1px solid #eee;
     }
 }
-/* Tablet landscape mode */
+/* iPad Landscape */
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-    /* Container */
-    .container {
-        flex-direction: row;
-        position: relative;
-        min-height: 100vh;
+    html, body {
+        height: 100%;
+        overflow: hidden;
     }
 
-    /* Sidebar */
+    .container {
+        flex-direction: row;
+        height: 100vh;
+        overflow: hidden;
+    }
+
     .sidebar {
         width: 280px;
         height: 100vh;
         position: fixed;
-        top: 0;
         left: 0;
-        padding: 40px 30px;
-        display: flex;
-        flex-direction: column;
-        border-right: 1px solid #eaeaea;
-        border-bottom: none;
-        background: #f8f9fa;
-        z-index: 1000; /* Ensure sidebar stays above content */
-        overflow-y: auto; /* Allow scrolling if content is too tall */
+        top: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
-    /* Main content */
     .content {
-        margin-left: 280px; /* Match sidebar width */
+        margin-left: 280px;
+        height: 100vh;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
         padding: 40px;
         width: calc(100% - 280px);
-        min-height: 100vh;
-        position: relative;
-        z-index: 1; /* Lower than sidebar */
-        overflow-y: auto;
-        background: #fff;
-    }
-
-    /* Navigation */
-    nav {
-        margin: 20px 0;
     }
 
     nav ul {
         flex-direction: column;
-        gap: 12px;
     }
 
     .nav-link {
         padding: 8px 0;
         background: none;
         border-radius: 0;
-        display: block;
-        width: 100%;
     }
+}
 
-    /* Social links */
-    .social-links {
-        margin-top: auto;
-        padding-top: 20px;
-        border-top: 1px solid #eee;
+/* iPad Pro */
+@media (min-width: 1024px) and (max-width: 1366px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
     }
+}
 
-    /* Ensure content sections are properly positioned */
-    .section {
-        position: relative;
-        z-index: 1;
+/* Loading animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
     }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.section {
+    animation: fadeIn 0.3s ease-out;
 }
 
 /* Common styles for both orientations */
