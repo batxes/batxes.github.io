@@ -72,7 +72,7 @@
     },
     {
       "name": "Multi Agent Reinforcement Learning",
-      "github": "https://github.com/batxes/MARL_reach_objectivea",
+      "github": "https://github.com/batxes/MARL_reach_objective",
       "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
       "image": "marl.png",
       "technologies": [
