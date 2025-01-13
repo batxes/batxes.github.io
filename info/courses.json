@@ -1,31 +1,31 @@
 {
   "courses": [
     {
-      "name": "Large Language Models (LLM) Course",
+      "name": "Large Language Models (LLM) Course (160h)",
       "provider": "DataTalksClub",
       "year": "June 2024 - August 2024",
       "certificate": "https://github.com/DataTalksClub/llm-zoomcamp/tree/main"
     },
     {
-      "name": "AI Engineering Course",
+      "name": "AI Engineering Course (984h)",
       "provider": "International University Akademie",
       "year": "June 2024 - October 2024",
       "certificate": "https://www.iu-akademie.de/weiterbildungen/ai-engineer/"
     },
     {
-      "name": "Machine Learning operations (MLOps) course",
+      "name": "Machine Learning operations (MLOps) course (160h)",
       "provider": "DataTalksClub",
       "year": "May 2024 - Aug 2024",
       "certificate": "https://github.com/DataTalksClub/mlops-zoomcamp"
     },
     {
-      "name": "Machine learning in Weather and Climate, Massive Open Online Course",
+      "name": "Machine learning in Weather and Climate, Massive Open Online Course (Ongoing)",
       "provider": "European Center for Medium-Range Weather Forecasts",
       "year": "Dec 2023 - Present",
       "certificate": "https://learning.ecmwf.int/"
     },
     {
-      "name": "Machine Learning course",
+      "name": "Machine Learning course (200h)",
       "provider": "DataTalksClub",
       "year": "Sep 2023 - Dec 2023",
       "certificate": "https://github.com/batxes/MLzoomcamp"
