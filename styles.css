@@ -47,12 +47,31 @@ nav ul li {
 
 .nav-link {
     text-decoration: none;
-    color: #555;
+    color: #666;
     font-size: 16px;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
     display: block;
-    padding: 8px 0;
+    position: relative;
+    padding-left: 15px; /* Add space for the indicator */
 }
+
+.nav-link::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 3px;
+    height: 0;
+    background-color: #007bff;
+    transition: height 0.3s ease;
+}
+
+.nav-link:hover::before,
+.nav-link.active::before {
+    height: 80%; /* Height of the vertical bar */
+}
+
 
 .nav-link:hover {
     color: #000;
@@ -511,12 +530,25 @@ nav ul li {
 .project-content h3 a:hover {
     color: #000;
 }
+/*
 .project-link {
     text-decoration: none;
     color: inherit;
     display: block;
     cursor: pointer;
 }
+*/
+.project-link {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.project-link:hover {
+    color: #007bff;
+}
+
+
 
 .project-item {
     background: white;
@@ -530,12 +562,14 @@ nav ul li {
 }
 
 /* Hover effects */
+/*
 .project-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 12px rgba(0,0,0,0.15);
 }
-
+*/
 /* Slide-in animation for content on hover */
+/*
 .project-content {
     transition: all 0.3s ease;
 }
@@ -545,6 +579,7 @@ nav ul li {
 }
 
 /* Title animation */
+/*
 .project-title {
     font-size: 1.2em;
     font-weight: bold;
@@ -555,6 +590,7 @@ nav ul li {
 .project-item:hover .project-title {
     color: #007bff;
 }
+
 
 /* Project header styles */
 .project-header {
@@ -581,7 +617,7 @@ nav ul li {
     color: #444;
     margin-bottom: 15px;
 }
-
+/*
 .project-item:hover .project-achievements li {
     transform: translateX(5px);
 }
@@ -596,13 +632,14 @@ nav ul li {
     opacity: 0;
     transition: all 0.3s ease;
 }
-
+/*
 .project-item:hover::after {
     opacity: 1;
     transform: translateX(5px);
 }
 
 /* Background gradient effect */
+/*
 .project-item {
     background: linear-gradient(45deg, #fff 50%, #f8f9fa 50%);
     background-size: 250% 100%;
@@ -614,11 +651,6 @@ nav ul li {
     background-position: -100% 0;
 }
 
-/* Make sure links don't have the default blue color */
-.project-link:hover {
-    text-decoration: none;
-    color: inherit;
-}
 
 /* Responsive design */
 @media (max-width: 768px) {
@@ -649,10 +681,11 @@ nav ul li {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    font-size: 24px;
+    color: #666;
 }
 
 .tech-icon i {
-    font-size: 24px;
     margin-bottom: 5px;
 }
 
@@ -915,7 +948,7 @@ h1 {
 }
 
 .contact-info {
-    margin-top: 30px;
+    margin-top: auto;
     padding-top: 20px;
     border-top: 1px solid #eee;
     font-weight: bold;
@@ -962,6 +995,10 @@ h1 {
         font-size: 14px;
         background: #f0f0f0;
         border-radius: 15px;
+    }
+
+    .nav-link::before {
+        display: none; /* Hide vertical bar on mobile/portrait */
     }
 
     /* Social links */
@@ -1120,6 +1157,9 @@ h1 {
         font-size: 12px;
         padding: 6px 10px;
     }
+    .nav-link::before {
+        display: none; /* Hide vertical bar on mobile/portrait */
+    }
 
     .grid-content {
         flex-direction: column;
@@ -1186,6 +1226,9 @@ h1 {
         background: #f5f5f5;
         border-radius: 20px;
     }
+    .nav-link::before {
+        display: none; /* Hide vertical bar on mobile/portrait */
+    }
 
     .social-links {
         display: flex;
@@ -1236,6 +1279,9 @@ h1 {
         padding: 8px 0;
         background: none;
         border-radius: 0;
+    }
+    .nav-link::before {
+        display: none; /* Hide vertical bar on mobile/portrait */
     }
 }
 

@@ -1,9 +1,26 @@
 {
   "projects": [
     {
-      "name": "Deep Learning Satellite Picture Classification",
+      "name": "Climate Change Dashboard (Ongoing)",
+      "github": "https://github.com/batxes/climate_change_dashboard",
+      "description": "Developed an interactive dashboard to visualize historical climate change data from multiple sources. Implemented data scraping, processing, and storage in PostgreSQL. Built the dashboard using Streamlit and deployed it on the cloud for accessibility. Utilized Prefect to design and manage a robust ETL pipeline for seamless data workflows.",
+      "image": "cc.png",
+      "technologies": [
+        "python",
+        "docker",
+        "postgresql",
+        "streamlit",
+        "prefect",
+        "matplotlib",
+        "plotly",
+	      "pandas",
+	      "numpy"
+      ]
+    },
+    {
+      "name": "Satellite Picture Classification (Deep Learning)",
       "github": "https://github.com/batxes/DL-Satellite-picture-classification-project",
-      "description": "This is a Machine Learning project that aims to predict or classify satellite pictures into classes of lands. I downloaded the data from: https://www.tensorflow.org/datasets/catalog/eurosat#eurosatrgb_default_config This dataset contains 27000 labeled pictures and they consist in total 10 different classes of lands.",
+      "description": "Developed a machine learning project to classify satellite images into land categories. Leveraged a convolutional neural network (CNN) for training and predictions, implemented a Flask-based API to serve the model, and containerized the application using Docker for portability and scalability.",
       "image": "satellite.jpg",
       "technologies": [
         "python",
@@ -19,9 +36,9 @@
       ]
     },
     {
-      "name": "Machine Learning Rain Prediction",
+      "name": "Rain Prediction (Machine Learning)",
       "github": "https://github.com/batxes/ML-Rain-prediction-project",
-      "description": "End-to-End ML project. The goal is to predict if the next day will rain or not. The project consists of: Exploratory Data analysis, with data cleaning and preprocessing for training. Hyper-parametrization tunning and final model training with xgboost. Then I run a small local web server with gunicorn and use flask to call the predict function. Afterwards, I containerize the scripts with docker and deploy it to AWS with Elastic Beanstalk. ",
+      "description": "Developed a machine learning project to predict the likelihood of rain for the following day. Utilized an XGBoost model for training and predictions, implemented a Flask-based API to serve the model, containerized the application using Docker, and deployed it on AWS Elastic Beanstalk for scalable and reliable access.",
       "image": "kangaroos.jpg",
       "technologies": [
         "python",
@@ -37,9 +54,9 @@
       ]
     },
      {
-      "name": "MLOps Drought Prediction",
+      "name": "Drought Prediction (MLOps)",
       "github": "https://github.com/batxes/MLOPS-Drought-predictor-project",
-      "description": "Complete end-to-end MLOps implementation for training, maintaining and monitoring a machine learning model that predicts droughts. ",
+      "description": "Developed a robust machine learning pipeline utilizing an XGBoost model for training and predictions. Managed the model lifecycle and experiment tracking with MLflow, and orchestrated workflows using Prefect. Containerized the model with Docker for deployment, featuring a Flask-based prediction API served by Gunicorn and testable through a dedicated script. Monitored training and prediction metrics with Prometheus, visualized in Grafana. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks, and a CI/CD pipeline. Streamlined automation and execution using a Makefile.",
       "image": "mlops.jpg",
       "technologies": [
         "python",
@@ -57,9 +74,9 @@
       ]
     },
     {
-      "name": "LLM Steel Type Classification",
+      "name": "Steel Type Classification (LLM)",
       "github": "https://github.com/batxes/LLM_steel_classification",
-      "description": "LLM project that is able to classify types and features of steel from plain text. ",
+      "description": "Developed a machine learning pipeline to classify steel products into categories. Processed three diverse files, dynamically handling multi-tab Excel sheets and extracting embedded tables. Leveraged regex for feature extraction and data preparation. Utilized the Transformers library to fine-tune a pre-trained BERT model, evaluated its performance, and saved the trained model. Implemented a test script with predefined steel properties to validate category predictions.",
       "image": "steel.webp",
       "technologies": [
         "python",
@@ -71,7 +88,7 @@
       ]
     },
     {
-      "name": "Multi Agent Reinforcement Learning",
+      "name": "Reach Objective (Multi Agent Reinforcement Learning)",
       "github": "https://github.com/batxes/MARL_reach_objective",
       "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
       "image": "marl.png",

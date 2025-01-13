@@ -29,6 +29,7 @@ const techIconMap = {
     'grafana': 'devicon-grafana-original colored',
     'prometheus': 'fas fa-tachometer-alt', // Using a dashboard icon for Prometheus
     'prefect': 'fas fa-tasks', // Using a tasks icon for Prefect
+    'streamlit': 'devicon-streamlit-plain colored',
     
     // Testing
     'unittest': 'fas fa-vial', // Using a test tube icon for unittest
@@ -42,7 +43,11 @@ const techIconMap = {
     'seaborn': 'fas fa-chart-line',
     'Seaborn': 'fas fa-chart-line',
     'gym': 'fas fa-robot',
-    'Gym': 'fas fa-robot'
+    'Gym': 'fas fa-robot',
+    'postgresql': 'devicon-postgresql-plain colored',
+    'PostgreSQL': 'devicon-postgresql-plain colored',
+    'plotly': 'devicon-plotly-plain colored',
+    'Plotly': 'devicon-plotly-plain colored',
 };
 
 // Function to format date
@@ -115,10 +120,11 @@ async function loadProjects() {
         }
         
         container.innerHTML = data.projects.map(project => `
-            <a href="${project.github}" target="_blank" class="project-link">
             <div class="project-item">
                 <div class="project-content">
-                    <h3>${project.name}</h3>
+                    <a href="${project.github}" target="_blank" class="project-link">
+                        <h3>${project.name}</h3>
+                    </a>
                     <p>${project.description}</p>
                     <div class="tech-stack">
                         ${project.technologies.map(tech => {
@@ -134,7 +140,7 @@ async function loadProjects() {
                 </div>
                 <img src="images/${project.image}" alt="${project.name}" class="experience-image">
             </div>
-            </a>
+            
         `).join('');
     } catch (error) {
         console.error('Error loading projects:', error);
