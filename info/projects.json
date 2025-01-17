@@ -88,6 +88,20 @@
       ]
     },
     {
+      "name": "E-Commerce logistics (Discrete Event Simulation)",
+      "github": "hhttps://github.com/batxes/e-commerce_logistics_network_simulator",
+      "description": "Discrete event simulation of e-commerce logistics, modeling warehouse operations and deliveries across Germany with real-time visualization. ",
+      "image": "warehouses.png",
+      "technologies": [
+        "python",
+        "simpy",
+        "numpy",
+        "pandas",
+	      "plotly",
+        "folium"
+      ]
+    },
+    {
       "name": "Reach Objective (Multi Agent Reinforcement Learning)",
       "github": "https://github.com/batxes/MARL_reach_objective",
       "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
