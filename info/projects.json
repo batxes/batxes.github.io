@@ -36,6 +36,21 @@
       ]
     },
     {
+      "name": "Chemical Production Forecasting (Deep Learning)",
+      "github": "https://github.com/batxes/Chemical-Production-Forecasting",
+      "description": "Developed an LSTM model to predict key chemical production outputs from multivariate timeseries data from six reactors, optimizing industrial process forecasting.",
+      "image": "chemicals.jpeg",
+      "technologies": [
+        "python",
+	      "scikit-learn",
+	      "tensorflow",
+        "matplotlib",
+        "plotly",
+	      "pandas",
+	      "numpy"
+      ]
+    },
+    {
       "name": "Rain Prediction (Machine Learning)",
       "github": "https://github.com/batxes/ML-Rain-prediction-project",
       "description": "Developed a machine learning project to predict the likelihood of rain for the following day. Utilized an XGBoost model for training and predictions, implemented a Flask-based API to serve the model, containerized the application using Docker, and deployed it on AWS Elastic Beanstalk for scalable and reliable access.",
