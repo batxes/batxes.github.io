@@ -7,8 +7,9 @@
       "endDate": "2024-07",
       "image": "mdc.jpg",
       "tasks": [
-	"Led end-to-end research projects resulting in 2 first-author and 6 co-authored publications like Nature and Nature Methods (200+ citations) in genome structure and gene regulation.",
-	"Secured €100,000 research grant, designing and leading an end-to-end project that was presented in international conferences, established collaborations with 3 research institutions and contributed to the field with an open source software application."
+        "Applied machine learning, data science and bioinformatic techniques to uncover insights in genome structure and gene regulation.",
+        "Led and managed end-to-end AI and data-driven research projects, applying advanced statistical and machine learning techniques, resulting in 8 publications in top-tier journals like Nature and Nature Methods (200+ citations).",
+        "Secured €100,000 in research funding and established collaborations with three research institutions, presenting findings at international conferences."
       ],
       "link": "https://www.mdc-berlin.de/"
     },
@@ -18,11 +19,12 @@
       "startDate": "2013-10",
       "endDate": "2018-05",
       "image": "cabd.jpeg",
-      "tasks": [
-	"Led the data analysis and software development of multi disciplinary teams, resulting in 3 first-author publications in Cell, Nature Genetics, PLOS Comp Bio, with combined impact factor >90.",
-"Developed a novel open source 3D modeling algorithm adopted by 10 international projects.",
-"Instructed 20+ master's students in R/Linux programming, achieving 72% positive feedback score.",
-"Managed the High Performance Computer infrastructure of the University supporting 100+ users"
+      "tasks": [ 
+        "Applied machine learning, statistical and optimization algorithms in simulations to generate 3D models and predict protein and genome structures.",
+        "Developed a novel open-source 3D modeling bioinformatic algorithm using AI techniques (https://github.com/batxes/4Cin), adopted by 10+ international research projects, showcasing expertise in algorithm development and modeling.",
+        "Led data analysis and software development in cross-functional teams, resulting in three first-author publications (Cell, Nature Genetics and Plos Comp. Bio.) with a combined impact factor of 90+.",
+        "Managed the High-Performance Computing (HPC) infrastructure at the university, providing technical support to 100+ users, optimizing computational workflows, and improving resource efficiency.",
+        "Instructed 20+ master's students in R/Linux programming, achieving 72% positive feedback score."
       ],
       "link": "https://www.cabd.es/en/"
     },
