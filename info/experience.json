@@ -8,6 +8,7 @@
       "image": "mdc.jpg",
       "tasks": [
         "Applied machine learning, data science and bioinformatic techniques to uncover insights in genome structure and gene regulation.",
+        "Implemented end-to-end ETL pipelines for large-scale, heterogeneous omics datasets (ATAC-seq, ChIP-seq, RNA-seq, proteomics, GAM, Hi-C). Automated data ingestion, cleaning, normalization, transformation, and feature engineering. Optimized data storage and retrieval.",
         "Led and managed end-to-end AI and data-driven research projects, applying advanced statistical and machine learning techniques, resulting in 8 publications in top-tier journals like Nature and Nature Methods (200+ citations).",
         "Secured €100,000 in research funding and established collaborations with three research institutions, presenting findings at international conferences."
       ],
@@ -21,6 +22,7 @@
       "image": "cabd.jpeg",
       "tasks": [ 
         "Applied machine learning, statistical and optimization algorithms in simulations to generate 3D models and predict protein and genome structures.",
+        "Designed end-to-end ETL pipelines for large-scale, heterogeneous omics datasets (ATAC-seq, ChIP-seq, RNA-seq, Hi-C, 4C-seq). Automated data ingestion, cleaning, normalization, transformation, and feature engineering.",
         "Developed a novel open-source 3D modeling bioinformatic algorithm using AI techniques (https://github.com/batxes/4Cin), adopted by 10+ international research projects, showcasing expertise in algorithm development and modeling.",
         "Led data analysis and software development in cross-functional teams, resulting in three first-author publications (Cell, Nature Genetics and Plos Comp. Bio.) with a combined impact factor of 90+.",
         "Managed the High-Performance Computing (HPC) infrastructure at the university, providing technical support to 100+ users, optimizing computational workflows, and improving resource efficiency.",

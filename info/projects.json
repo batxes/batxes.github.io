@@ -20,7 +20,7 @@
     {
       "name": "Satellite Picture Classification (Deep Learning)",
       "github": "https://github.com/batxes/DL-Satellite-picture-classification-project",
-      "description": "Developed a machine learning project to classify satellite images into land categories. Leveraged a convolutional neural network (CNN) for training and predictions, implemented a Flask-based API to serve the model, and containerized the application using Docker for portability and scalability.",
+      "description": " Built a CNN model to classify satellite images. Deployed via Flask API, containerized with Docker, and used Python libraries like TensorFlow and Pandas.",
       "image": "satellite.jpg",
       "technologies": [
         "python",
@@ -53,7 +53,7 @@
     {
       "name": "Rain Prediction (Machine Learning)",
       "github": "https://github.com/batxes/ML-Rain-prediction-project",
-      "description": "Developed a machine learning project to predict the likelihood of rain for the following day. Utilized an XGBoost model for training and predictions, implemented a Flask-based API to serve the model, containerized the application using Docker, and deployed it on AWS Elastic Beanstalk for scalable and reliable access.",
+      "description": "Applied XGBoost model to predict daily rainfall. Deployed via Flask API, containerized with Docker, and hosted on the cloud with AWS Elastic Beanstalk.",
       "image": "kangaroos.jpg",
       "technologies": [
         "python",
@@ -71,7 +71,7 @@
      {
       "name": "Drought Prediction (MLOps)",
       "github": "https://github.com/batxes/MLOPS-Drought-predictor-project",
-      "description": "Developed a robust machine learning pipeline utilizing an XGBoost model for training and predictions. Managed the model lifecycle and experiment tracking with MLflow, and orchestrated workflows using Prefect. Containerized the model with Docker for deployment, featuring a Flask-based prediction API served by Gunicorn and testable through a dedicated script. Monitored training and prediction metrics with Prometheus, visualized in Grafana. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks, and a CI/CD pipeline. Streamlined automation and execution using a Makefile.",
+      "description": "Created an MLOps pipeline using XGBoost for drought prediction. Orchestrated with Prefect, Managed with MLflow, monitored via Prometheus/Grafana, containerized with docker and automated with Docker. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks and a CI/CD pipeline. Streamlined execution with a Makefile.",
       "image": "mlops.jpg",
       "technologies": [
         "python",
