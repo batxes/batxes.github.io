@@ -282,6 +282,9 @@ function showSection(sectionId) {
             case 'projects':
                 loadProjects();
                 break;
+            case 'skills':
+                loadSkills();
+                break;
             case 'publications':
                 loadPublications();
                 break;
@@ -338,17 +341,12 @@ async function loadOther() {
         if (!container) {
             throw new Error('Other container not found!');
         }
-        
-        container.innerHTML = data.other.map(item => `
-            <div class="experience-item full-width">
-                <div class="experience-content full-width-content">
-                    <div class="experience-header">
-                        <div class="full-width-header">
-                            <div class="experience-title">${item.title}</div>
-                            <div class="experience-date">${item.year}</div>
-                        </div>
-                    </div>
-                    <p class="description full-width-description">${item.description}</p>
+            container.innerHTML = data.other.map(item => `
+            <div class="course-item">
+                <div>
+                    <h3>${item.title}</h3>
+                    <p>${item.description}</p>
+                    <p>${item.year}</p>
                 </div>
             </div>
         `).join('');
@@ -357,6 +355,50 @@ async function loadOther() {
         const container = document.getElementById('other-container');
         if (container) {
             container.innerHTML = `<p>Error loading other: ${error.message}</p>`;
+        }
+    }
+}
+async function loadSkills() {
+    try {
+        console.log('Loading skills...');
+        const response = await fetch('info/techskills.txt');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const content = await response.text();
+        console.log('Tech Skills content:', content);
+        
+        const container = document.getElementById('skills-container');
+        if (!container) {
+            throw new Error('Skills container not found!');
+        }
+        
+        container.innerHTML = `
+            <div class="courses-item full-width">
+                <div class="courses-content full-width-content">
+                    ${content.split('\n').map(line => {
+                        if (line.startsWith('##')) {
+                            // Headers with emojis
+                            return `<h3 class="section-title">${line.replace('##', '').trim()}</h3>`;
+                        } else if (line.startsWith('-')) {
+                            // List items
+                            return `<div class="list-item">${line.substring(1).trim()}</div>`;
+                        } else if (line.trim() === '') {
+                            // Empty lines
+                            return '<div class="spacer"></div>';
+                        } else {
+                            // Regular text (including links and formatting)
+                            return `<p>${line}</p>`;
+                        }
+                    }).join('')}
+                </div>
+            </div>
+        `;
+    } catch (error) {
+        console.error('Error loading miscelanea:', error);
+        const container = document.getElementById('miscelanea-container');
+        if (container) {
+            container.innerHTML = `<p>Error loading miscelanea: ${error.message}</p>`;
         }
     }
 }
@@ -376,8 +418,8 @@ async function loadMiscelanea() {
         }
         
         container.innerHTML = `
-            <div class="experience-item full-width">
-                <div class="experience-content full-width-content">
+            <div class="courses-item full-width">
+                <div class="courses-content full-width-content">
                     ${content.split('\n').map(line => {
                         if (line.startsWith('##')) {
                             // Headers with emojis

@@ -1,22 +1,5 @@
-## 💻 Technical Skills:
-- Profficient with Python (Pandas, Numpy, Pyplot, Seaborn, Scikit-learn …), Bash, Git, Inkscape, Docker 
-- ML experience: Tensorflow, Keras, AWS, Kubernetes 
-- MLOps experience: Mlflow, Prefect, Prometheus, Grafana
-- Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
-- Experience with embedded systems and -NET micro Framework
-- Software engineering, UML and different development states of informatic projects.
-- Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
-- Functionality and structure of Operatives systems based on Linux.
-- Creation and management of Network protocols.
-- Web positioning (SEO) knowledge.
-  
-## 🦾 Other Skills
-- Working in an independent manner and also in big collaborations
-- Gathering, evaluating and synthesizing of information into articles
-- Project management and mentoring
-- Good communication and presentation skills
-- Good at problem solving and adaptability
-
+ ## 🏆 Accomplishments
+<b>FEBS long term fellowship</b> 100.000 € <a href="https://www.febs.org/funding/fellowships/"> https://www.febs.org/funding/fellowships/</a> (Jun 2018 - Dec 2020) <br>
 
 ## 🎤 Communication in International meetings
 - Climate Career week (25/03/2024)
@@ -41,5 +24,3 @@
 - 13th European Conference on Computational Biology, Strasburg (07/09/2014) 
 - V IMMPC Annual Conference and 4DCellFate Workshop, Barcelona (Oral Communication) (27/03/2014) 
 
-## 🏆 Accomplishments
-<b>FEBS long term fellowship</b> 100.000 € <a href="https://www.febs.org/funding/fellowships/"> https://www.febs.org/funding/fellowships/</a> (Jun 2018 - Dec 2020) <br>
