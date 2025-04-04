@@ -1,14 +1,17 @@
 ## 💻 Technical Skills:
-- Profficient with Python (Pandas, Numpy, Pyplot, Seaborn, Scikit-learn …), Bash, Git, Inkscape, Docker 
-- ML experience: Tensorflow, Keras, AWS, Kubernetes 
-- MLOps experience: Mlflow, Prefect, Prometheus, Grafana
-- Also worked with Java, C, C#, Javascript, CSS, Html, PHP, Corba, Jinja, Django, Werkzeug, MySQL, SQLite, PostgreSQL.
-- Experience with embedded systems and -NET micro Framework
-- Software engineering, UML and different development states of informatic projects.
-- Experience in development environments like NetBeans, Eclipse, Visual Studio and Visual Code.
-- Functionality and structure of Operatives systems based on Linux.
-- Creation and management of Network protocols.
-- Web positioning (SEO) knowledge.
+- <b>Python & Data Science Libraries:</b> Proficient in Python, leveraging libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn for data wrangling, visualization, and modeling tasks.
+- <b>Machine Learning:</b> Hands-on experience with TensorFlow and Keras for building deep learning models; used for prediction, classification, clustering, and time series forecasting.
+- <b>MLOps & Automation:</b> Used MLflow, Prefect, Prometheus, and Grafana for tracking experiments, orchestrating data workflows, and monitoring model performance in production.
+- <b>Cloud & Scalable Systems:</b> Familiar with deploying ML solutions using AWS, GCP and bigquery, ensuring scalability and reliability of services.
+- <b>Data Analysis & Statistics:</b> Solid grounding in statistical analysis, hypothesis testing, A/B testing, and feature engineering to extract insights and support decision-making.
+- <b>Data Engineering Tools:</b> Experience with data pipeline design and automation using tools like SQL, Prefect, and Docker for reproducibility and efficiency.
+- <b>Databases:</b> Worked with relational databases including MySQL, SQLite, and PostgreSQL for data storage, querying, and reporting.
+- <b>Programming Languages & Web Frameworks:</b> Developed applications using Java, C, C#, JavaScript, HTML, CSS, PHP; also used frameworks such as Django, Jinja, and Werkzeug.
+- <b>Software Engineering Practices:</b> Knowledgeable in software development life cycles, agile practices, UML modeling, and project planning methodologies.
+- <b>Operating Systems & Linux:</b> In-depth understanding of Linux-based systems, including shell scripting and system-level configuration.
+- <b>Embedded Systems:</b> Experience with embedded systems development using the .NET Micro Framework for hardware-level solutions.
+- <b>Networking:</b> Designed and managed network protocols and architectures for distributed systems and applications.
+- <b>SEO & Web Optimization:</b> Applied SEO best practices for improving the visibility and ranking of web platforms.
 
 ## 🦾 Other Skills
 - Working in an independent manner and also in big collaborations
