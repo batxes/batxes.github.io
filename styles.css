@@ -480,6 +480,20 @@ nav ul li {
     color: inherit;
 }
 
+.cv-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #777;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.cv-button:hover {
+  background-color: #333;
+}
+
 /* Responsive design for education section */
 @media (max-width: 768px) {
     .education-item {
