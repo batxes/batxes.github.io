@@ -20,6 +20,8 @@ const techIconMap = {
     // Cloud/Deployment
     'aws': 'devicon-amazonwebservices-original colored',
     'AWS': 'devicon-amazonwebservices-original colored',
+    'gcp': 'devicon-googlecloud-plain colored',
+    'GCP': 'devicon-googlecloud-plain colored',
     'docker': 'devicon-docker-plain colored',
     'Docker': 'devicon-docker-plain colored',
     'flask': 'devicon-flask-original colored',
@@ -30,6 +32,17 @@ const techIconMap = {
     'prometheus': 'fas fa-tachometer-alt', // Using a dashboard icon for Prometheus
     'prefect': 'fas fa-tasks', // Using a tasks icon for Prefect
     'streamlit': 'devicon-streamlit-plain colored',
+
+    // Data eng
+    'airflow': 'devicon-apacheairflow-plain colored',
+    'Airflow': 'devicon-apacheairflow-plain colored',
+    'dbt': 'fas fa-server',
+    'Dbt': 'fas fa-server',
+    'terraform': 'devicon-terraform-plain colored',
+    'Terraform': 'devicon-terraform-plain colored',
+    'bigquery': 'fas fa-server',
+    'Bigquery': 'fas fa-server',
+
     
     // Testing
     'unittest': 'fas fa-vial', // Using a test tube icon for unittest
@@ -48,6 +61,8 @@ const techIconMap = {
     'PostgreSQL': 'devicon-postgresql-plain colored',
     'plotly': 'devicon-plotly-plain colored',
     'Plotly': 'devicon-plotly-plain colored',
+    'metabase': 'fas fa-server',
+    'Metabase': 'fas fa-server',
 };
 
 // Function to format date

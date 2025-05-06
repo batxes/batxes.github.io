@@ -1,6 +1,23 @@
 {
   "projects": [
     {
+      "name": "Berlin Weather Data Engineering Project - 2025",
+      "github": "https://github.com/batxes/Berlin-Weather-Project",
+      "description": "An end-to-end data pipeline that automates the collection, storage, transformation, and visualization of Berlin's hourly weather data. The pipeline uses Apache Airflow for orchestration, stores raw data in GCS, processes it in BigQuery with dbt, and visualizes insights in Metabase. Infrastructure is provisioned with Terraform and containerized using Docker. Data is sourced from Kaggle.",
+      "image": "berlin_snow.jpg",
+      "technologies": [
+        "python",
+        "docker",
+        "terraform",
+        "airflow",
+        "gcp",
+        "postgresql",
+	      "bigquery",
+        "dbt",
+        "metabase"
+      ]
+    },
+    {
       "name": "Climate Change Dashboard (Ongoing)",
       "github": "https://github.com/batxes/climate_change_dashboard",
       "description": "Developed an interactive dashboard to visualize historical climate change data from multiple sources. Implemented data scraping, processing, and storage in PostgreSQL. Built the dashboard using Streamlit and deployed it on the cloud for accessibility. Utilized Prefect to design and manage a robust ETL pipeline for seamless data workflows.",
@@ -18,7 +35,7 @@
       ]
     },
     {
-      "name": "Satellite Picture Classification (Deep Learning)",
+      "name": "Satellite Picture Classification (Deep Learning) - 2024",
       "github": "https://github.com/batxes/DL-Satellite-picture-classification-project",
       "description": " Built a CNN model to classify satellite images. Deployed via Flask API, containerized with Docker, and used Python libraries like TensorFlow and Pandas.",
       "image": "satellite.jpg",
@@ -36,7 +53,7 @@
       ]
     },
     {
-      "name": "Chemical Production Forecasting (Deep Learning)",
+      "name": "Chemical Production Forecasting (Time Series, Deep Learning) - 2024",
       "github": "https://github.com/batxes/Chemical-Production-Forecasting",
       "description": "Developed an LSTM model to predict key chemical production outputs from multivariate timeseries data from six reactors, optimizing industrial process forecasting.",
       "image": "chemicals.jpeg",
@@ -51,7 +68,7 @@
       ]
     },
     {
-      "name": "Rain Prediction (Machine Learning)",
+      "name": "Rain Prediction (Machine Learning) - 2024",
       "github": "https://github.com/batxes/ML-Rain-prediction-project",
       "description": "Applied XGBoost model to predict daily rainfall. Deployed via Flask API, containerized with Docker, and hosted on the cloud with AWS Elastic Beanstalk.",
       "image": "kangaroos.jpg",
@@ -69,7 +86,7 @@
       ]
     },
      {
-      "name": "Drought Prediction (MLOps)",
+      "name": "Drought Prediction (MLOps) - 2024",
       "github": "https://github.com/batxes/MLOPS-Drought-predictor-project",
       "description": "Created an MLOps pipeline using XGBoost for drought prediction. Orchestrated with Prefect, Managed with MLflow, monitored via Prometheus/Grafana, containerized with docker and automated with Docker. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks and a CI/CD pipeline. Streamlined execution with a Makefile.",
       "image": "mlops.jpg",
@@ -89,7 +106,7 @@
       ]
     },
     {
-      "name": "Steel Type Classification (LLM)",
+      "name": "Steel Type Classification (LLM) - 2024",
       "github": "https://github.com/batxes/LLM_steel_classification",
       "description": "Developed a machine learning pipeline to classify steel products into categories. Processed three diverse files, dynamically handling multi-tab Excel sheets and extracting embedded tables. Leveraged regex for feature extraction and data preparation. Utilized the Transformers library to fine-tune a pre-trained BERT model, evaluated its performance, and saved the trained model. Implemented a test script with predefined steel properties to validate category predictions.",
       "image": "steel.webp",
@@ -103,7 +120,7 @@
       ]
     },
     {
-      "name": "E-Commerce logistics (Discrete Event Simulation)",
+      "name": "E-Commerce logistics (Discrete Event Simulation) - 2025",
       "github": "https://github.com/batxes/e-commerce_logistics_network_simulator",
       "description": "Discrete event simulation of e-commerce logistics, modeling warehouse operations and deliveries across Germany with real-time visualization. ",
       "image": "warehouses.png",
@@ -117,7 +134,7 @@
       ]
     },
     {
-      "name": "Reach Objective (Multi Agent Reinforcement Learning)",
+      "name": "Reach Objective (Multi Agent Reinforcement Learning) - 2024",
       "github": "https://github.com/batxes/MARL_reach_objective",
       "description": "RL project where multiple agents learn the fastest way to reach a coordinate in a grid.",
       "image": "marl.png",
@@ -130,7 +147,7 @@
       ]
     },
     {
-      "name": "4Cin: Software to generate 3D chromatin models",
+      "name": "4Cin: Software to generate 3D chromatin models - 2017",
       "github": "https://github.com/batxes/4cin",
       "description": "The software uses 4C-seq experiments to trilaterate the position of genomic loci and generate 3D model structures. The core of the modeling is based on IMP (https://integrativemodeling.org/)",
       "image": "4cin.png",
