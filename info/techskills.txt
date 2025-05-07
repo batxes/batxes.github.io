@@ -4,7 +4,7 @@
 - <b>MLOps & Automation:</b> Used MLflow, Prefect, Prometheus, and Grafana for tracking experiments, orchestrating data workflows, and monitoring model performance in production.
 - <b>Cloud & Scalable Systems:</b> Familiar with deploying ML solutions using AWS, GCP and bigquery, ensuring scalability and reliability of services.
 - <b>Data Analysis & Statistics:</b> Solid grounding in statistical analysis, hypothesis testing, A/B testing, and feature engineering to extract insights and support decision-making.
-- <b>Data Engineering Tools:</b> Experience with data pipeline design and automation using tools like SQL, Prefect, and Docker for reproducibility and efficiency.
+- <b>Data Engineering Tools:</b> Experience with data pipeline design and automation using Terraform, Prefect, Apache Airflow, BigQuery, DBT and Docker for reproducibility and efficiency.
 - <b>Databases:</b> Worked with relational databases including MySQL, SQLite, and PostgreSQL for data storage, querying, and reporting.
 - <b>Programming Languages & Web Frameworks:</b> Developed applications using Java, C, C#, JavaScript, HTML, CSS, PHP; also used frameworks such as Django, Jinja, and Werkzeug.
 - <b>Software Engineering Practices:</b> Knowledgeable in software development life cycles, agile practices, UML modeling, and project planning methodologies.
