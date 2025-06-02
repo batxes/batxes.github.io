@@ -1,6 +1,36 @@
 {
   "projects": [
     {
+      "name": "Targeted NGS Analysis: RNA-Seq & DNA Amplicon Data - 2025",
+      "github": "https://github.com/batxes/Precision_medicine_NGS",
+      "description": "This repository includes analysis pipelines and reports for two next-generation sequencing (NGS) tasks: one focused on targeted RNA-seq and the other on targeted DNA amplicon sequencing. The RNA-seq task analyzes gene enrichment, variant calling, and soft-clipped reads from sorted BAM files to find pathogenic fusion genes. The DNA task explores read mapping, variant detection, and coverage analysis across amplified regions. Both analyses aim to extract biological insights and assess technical quality.",
+      "image": "NGS.webp",
+      "technologies": [
+        "python",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "matplotlib",
+        "Bioinformatic tools"
+      ]
+    },
+    {
+      "name": "RAG Application for Soil Microbiology - 2025",
+      "github": "https://github.com/batxes/LLM_soil",
+      "description": "SoilMicroLLM is an end-to-end Retrieval-Augmented Generation (RAG) application specialized in soil microbiology and plant-bacteria interactions. It uses automated ingestion of scientific data from Wikipedia and PubMed, storing semantic embeddings in ChromaDB. A custom RAG pipeline built with LangChain, Sentence Transformers, and open-source LLMs (via Ollama) delivers context-aware answers through a Streamlit UI. Features include model evaluation, feedback collection, and the ability to add custom documents.",
+      "image": "soil.webp",
+      "technologies": [
+        "python",
+        "docker",
+        "scikit-learn",
+        "torch",
+        "langchain",
+        "sentence-transformers",
+        "ollama",
+        "streamlit"
+      ]
+    },
+    {
       "name": "Berlin Weather Data Engineering Project - 2025",
       "github": "https://github.com/batxes/Berlin-Weather-Project",
       "description": "An end-to-end data pipeline that automates the collection, storage, transformation, and visualization of Berlin's hourly weather data. The pipeline uses Apache Airflow for orchestration, stores raw data in GCS, processes it in BigQuery with dbt, and visualizes insights in Metabase. Infrastructure is provisioned with Terraform and containerized using Docker. Data is sourced from Kaggle.",
@@ -88,7 +118,7 @@
      {
       "name": "Drought Prediction (MLOps) - 2024",
       "github": "https://github.com/batxes/MLOPS-Drought-predictor-project",
-      "description": "Created an MLOps pipeline using XGBoost for drought prediction. Orchestrated with Prefect, Managed with MLflow, monitored via Prometheus/Grafana, containerized with docker and automated with Docker. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks and a CI/CD pipeline. Streamlined execution with a Makefile.",
+      "description": "Created an MLOps pipeline using XGBoost for drought prediction. Orchestrated with Prefect, Managed with MLflow, monitored via Prometheus/Grafana, containerized with docker and Docker Compose. Ensured high code quality through unit/integration tests, linting, formatting, pre-commit hooks and a CI/CD pipeline. Streamlined execution with a Makefile.",
       "image": "mlops.jpg",
       "technologies": [
         "python",
